@@ -11,6 +11,6 @@ J'adore la création, le multimédia me permet de voir dans quel domaine en part
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
 Apprendre et découvrir des sujets et des expositions que je ne connaissais pas, qui pourraient approfondir mes connaissances dans ce nouveau domaine qu'est le multimédia.
 
->💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
+
 
 
