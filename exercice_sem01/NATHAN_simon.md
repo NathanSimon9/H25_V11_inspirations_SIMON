@@ -5,7 +5,7 @@ Photo qui me représente. Le soccer est une grande parti de ma vie.
 
 
 ## **Intérêts dans le multimedia**
-J'adore la création, le multimédia me permet de voir dans quel domaine en particulier je préfère créer. Pour l'instant, avec ma première session, j'ai beaucoup aimé la création d'images matricielles à l'aide de Photoshop. Pour ma deuxième session, je pense que je vais vraiment adorer l'animation 2D !Je suis vraiment nouveau dans ce domaine, donc je n'ai pas vu d'expositions ou d'œuvres dont je me souviendrais. La première fois que j'ai animé c'étais en "stop motion".
+J'adore la création, le multimédia me permet de voir dans quel domaine en particulier je préfère créer. Pour l'instant, avec ma première session, j'ai beaucoup aimé la création d'images matricielles à l'aide de Photoshop. Pour ma deuxième session, je pense que je vais vraiment adorer l'animation 2D ! La première fois que j'ai animé c'étais en "stop motion". Je suis vraiment nouveau dans ce domaine, donc je n'ai pas vu d'expositions ou d'œuvres dont je me souviendrais.
 
 lien sur le "stop motion" https://www.stopmotionstudio.com/
 
