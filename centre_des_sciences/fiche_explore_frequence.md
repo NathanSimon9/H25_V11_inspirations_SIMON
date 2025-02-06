@@ -18,9 +18,9 @@ Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuv
 
 ## **Démonstration interactive**
 À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
-Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, comme les phénomènes naturels comme les orages par exemple.
+Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
 
-![vidéo](Médias/moi_haut_normal_basse_frequence.MOV)
+![image](Médias/moi_haute_frequence.jpg)
 
 
 
