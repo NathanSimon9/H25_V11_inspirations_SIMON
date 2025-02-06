@@ -23,7 +23,19 @@ Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant co
 ![image](Médias/moi_haute_frequence.jpg)
 *moi en haute fréquence*
 
+# **Dispositif néscésaire**
 
+### Caméras
+
+![image](Médias/camera_dispositif.jpg)
+
+### Lumière ultra violette
+
+![image](Médias/lumiere_haute_frequence.jpg)
+
+### Gros écrans
+
+![image](Médias/moi_normal.jpg)
 
 
 
