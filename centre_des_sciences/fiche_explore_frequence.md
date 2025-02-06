@@ -1,6 +1,6 @@
+# Expo centre des sciences
 ![image](médias_complémentaire/centre_des_sciences(2).jpg)
-
-Photo qui me représente. Le soccer est une grande parti de ma vie.
+*photo du batiment*
 
 
 ## **Explore, caméra à fréquence**  
