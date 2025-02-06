@@ -5,6 +5,8 @@
 
 ## **Explore, caméra à fréquence**  
 Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu.
+![image]![image](Médias/voir_invisible.jpg)
+
 
 lien sur le "stop motion" https://www.stopmotionstudio.com/
 
