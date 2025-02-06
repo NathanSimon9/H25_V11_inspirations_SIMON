@@ -9,11 +9,11 @@ Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuv
 
  ![image](Médias/voir_invisible.jpg)
  *texte sur le monde invisible*
+ 
+ ## **Caméra fréquence**
  Les caméras de fréquence sont des outils puissants qui permettent d'analyser et de visualiser des ondes électromagnétiques, sonores, et même des fréquences lumineuses dans des spectres au-delà de ce que nous pouvons percevoir. En explorant ces technologies, les visiteurs peuvent découvrir comment des phénomènes comme les ondes radio, les infrasons ou les ultrasons affectent notre quotidien sans que nous en soyons conscients.
-
-
-
-
+ 
+![image](Médias/frequence.jpg)
 
 lien sur le "stop motion" https://www.stopmotionstudio.com/
 
