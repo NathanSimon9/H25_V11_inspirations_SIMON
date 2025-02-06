@@ -1,1 +1,1 @@
-Dans ce fichier, il y aura tout mes médias pris à l'aide de mon téléphone.
+ce dossier contient les médias pris à l'aide de mon téléphone pour l'expo du centre des sciences
