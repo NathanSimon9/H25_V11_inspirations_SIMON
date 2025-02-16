@@ -51,9 +51,14 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 ![image](Médias/dispositif_lumiere.jpeg)
 
+## Intéractivité
+
+Bien sûr, la partie interactive joue un rôle clé en engageant l'utilisateur à poser des actions, à réfléchir et à interagir activement avec le dispositif. Cette interaction stimule sa curiosité et l'incite à explorer les différentes facettes de l'expérience. En l'invitant à prendre des décisions et à expérimenter, l'utilisateur devient un acteur central du processus, rendant l'activité non seulement plus captivante, mais aussi plus enrichissante.
+
+
+![image](Médias/question1.jpg)
 
 
 
 
-## Ce qui me plait dans l'introduction à la muséologie en TIM
-Apprendre et découvrir des sujets et des expositions que je ne connaissais pas, qui pourraient approfondir mes connaissances dans ce nouveau domaine qu'est le multimédia.
+
