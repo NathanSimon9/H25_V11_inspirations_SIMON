@@ -1,10 +1,12 @@
 # Expo centre des sciences
+
+Visite du jeudi 30 janvier 2025
 ![image](médias_complémentaire/centre_des_sciences(2).jpg)
 *photo du batiment*
 
 
-## **Explore, caméra à fréquence**  
-Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu. 
+# **Explore, caméra à fréquence**  
+Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu. Étant à la fois une installation contemplative et interactive, qui malgrés sa complexitée ne prend pas beaucoup de place dans l'établissement.  
 
 
  ![image](Médias/voir_invisible.jpg)
