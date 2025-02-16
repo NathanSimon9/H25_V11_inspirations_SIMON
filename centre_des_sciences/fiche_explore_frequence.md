@@ -21,12 +21,12 @@ Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuv
 Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
 
 ![image](Médias/moi_haute_frequence.jpg)
-
-
 *moi en haute fréquence*
 
 
 ![image](Médias/moi_haute_frequence.jpeg)
+
+
 *moi en basse fréquence*
 
 # **Dispositif néscésaire**
