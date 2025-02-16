@@ -63,6 +63,10 @@ Bien sûr, la partie interactive joue un rôle clé en engageant l'utilisateur �
 Ici, deux questions permettent de comprendre ce que l'on peut observer avec les fréquences. Cela offre à l'utilisateur l'opportunité d'apprendre et de s'amuser en même temps, en explorant son propre corps pour répondre à ce qui lui est demandé.
 
 
+## Appréciation
+
+J'ai toujours su ce que sont les rayons ultraviolets et les infrarouges, mais il est rare que nous ayons l'opportunité de voir ces fréquences en temps réel. Je trouve cela vraiment amusant, la manière dont ce dispositif est installé, de sorte que l'on puisse nous observer dans toutes les fréquences possibles au même moment. Personnellement, j'aurais ajouté plus de questions au sol, car je trouvais vraiment intéressant de comprendre ce que les hautes et basses fréquences peuvent représenter. Par exemple, le lien entre le rouge et la chaleur.
+
 *Si les technologies du Centre des sciences vous ont plu, allez les observer de vos propres yeux.*
 
 https://www.centredessciencesdemontreal.com/
