@@ -31,6 +31,8 @@ Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant co
 
 # **Dispositif néscésaire**
 
+Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité interactive, notamment des caméras à haute, basse et normale fréquence, ainsi que de la lumière ultraviolette. Il faut également de grands écrans pour observer les résultats fascinants des effets produits par les fréquences. Des grosse boîte englobe touts les fils nécessaires et la technologie requise pour les écrans et caméras.
+
 
 
 ### Caméras haute/ basse/ normal fréquence
@@ -44,6 +46,12 @@ Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant co
 ### Gros écrans
 
 ![image](Médias/moi_normal.jpg)
+
+### Fils
+
+![image](Médias/dispositif_lumiere.jpeg)
+
+
 
 
 
