@@ -23,9 +23,13 @@ Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant co
 ![image](Médias/moi_haute_frequence.jpg)
 *moi en haute fréquence*
 
+
 ![image](Médias/moi_haute_frequence.jpeg)
+*moi en basse fréquence*
 
 # **Dispositif néscésaire**
+
+
 
 ### Caméras haute/ basse/ normal fréquence
 
