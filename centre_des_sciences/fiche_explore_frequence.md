@@ -47,7 +47,7 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 ![image](Médias/moi_normal.jpg)
 
-### Fils
+### Des fils
 
 ![image](Médias/dispositif_lumiere.jpeg)
 
