@@ -60,7 +60,7 @@ Bien sûr, la partie interactive joue un rôle clé en engageant l'utilisateur �
 Ici, deux questions permettent de comprendre ce que l'on peut observer avec les fréquences. Cela offre à l'utilisateur l'opportunité d'apprendre et de s'amuser en même temps, en explorant son propre corps pour répondre à ce qui lui est demandé.
 
 
-Si les technologies du Centre des sciences vous ont plu, allez les observer de vos propres yeux.
+*Si les technologies du Centre des sciences vous ont plu, allez les observer de vos propres yeux.*
 
 https://www.centredessciencesdemontreal.com/
 
