@@ -25,7 +25,7 @@ Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant co
 
 # **Dispositif néscésaire**
 
-### Caméras
+### Caméras haute/ basse/ normal fréquence
 
 ![image](Médias/camera_dispositif.jpg)
 
