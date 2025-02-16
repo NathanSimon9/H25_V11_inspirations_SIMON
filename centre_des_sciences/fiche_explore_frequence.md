@@ -47,7 +47,7 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 ### Gros écrans
 
-![image](Médias/ecran.png)
+![image](Médias/moi_normal.jpg)
 
 ### Des fils
 
