@@ -7,7 +7,7 @@ Visite du jeudi 30 janvier 2025
 
 # **Explore, caméra à fréquence**  
  ![image](Médias/explore.jpg)
- *Création exposition Explore, 28 novembre 2019*
+ *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
 
  
 Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu. Étant à la fois une installation contemplative et interactive, qui malgrés sa complexitée ne prend pas beaucoup de place dans l'établissement.  
