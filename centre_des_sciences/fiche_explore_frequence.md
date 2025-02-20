@@ -60,6 +60,8 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 ### Gros écrans
 
 ![image](Médias/moi_normal.jpg)
+
+
  *photo prise par moi*
 
 ### Des fils
