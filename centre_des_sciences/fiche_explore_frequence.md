@@ -59,6 +59,8 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 ### Gros écrans
 *fournis par Ubisoft*
+
+
 ![image](Médias/moi_normal.jpg)
 
 
