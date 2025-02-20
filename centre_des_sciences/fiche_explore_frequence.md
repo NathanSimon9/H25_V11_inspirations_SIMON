@@ -2,24 +2,27 @@
 
 Visite du jeudi 30 janvier 2025
 ![image](médias_complémentaire/centre_des_sciences(2).jpg)
-*photo du batiment*
+*photo du batiment (internette)*
 
 
-# **Explore, caméra à fréquence**  
+# **Explore, caméra à fréquence** 
+*photo prise par moi*
  ![image](Médias/explore.jpg)
  *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
+ 
 
  
 Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu. Étant à la fois une installation contemplative et interactive, qui malgrés sa complexitée ne prend pas beaucoup de place dans l'établissement.  
 
-
+*photo prise par moi*
  ![image](Médias/voir_invisible.jpg)
  *texte sur le monde invisible*
 
  
  ## **Caméra fréquence**
  Les caméras de fréquence sont des outils puissants qui permettent d'analyser et de visualiser des ondes électromagnétiques, sonores, et même des fréquences lumineuses dans des spectres au-delà de ce que nous pouvons percevoir. En explorant ces technologies, les visiteurs peuvent découvrir comment des phénomènes comme les ondes radio, les infrasons ou les ultrasons affectent notre quotidien sans que nous en soyons conscients.
- 
+
+ *photo prise par moi*
 ![image](Médias/frequence.jpg)
 *explication en photo*
 
@@ -27,10 +30,12 @@ Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuv
 À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
 Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
 
+ *photo prise par moi*
 ![image](Médias/moi_haute_frequence.jpg)
 *moi en haute fréquence*
 
 
+ *photo prise par moi*
 ![image](Médias/moi_haute_frequence.jpeg)
 
 
@@ -45,22 +50,27 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 ### Caméras haute/ basse/ normal fréquence
 
 ![image](Médias/camera_dispositif.jpg)
+ *photo prise par moi*
 
 ### Lumière ultra violette
 
 ![image](Médias/lumiere_haute_frequence.jpg)
+ *photo prise par moi*
 
 ### Gros écrans
 
 ![image](Médias/moi_normal.jpg)
+ *photo prise par moi*
 
 ### Des fils
 
 ![image](Médias/dispositif_lumiere.jpeg)
+ *photo prise par moi*
 
 ### grosse boite
 
 ![image](Médias/boite.jpeg)
+ *photo prise par moi*
 
 
 ## Intéractivité
@@ -69,6 +79,9 @@ Bien sûr, la partie interactive joue un rôle clé en engageant l'utilisateur �
 
 
 ![image](Médias/question1.jpg)
+ *photo prise par moi*
+
+ 
 Ici, deux questions permettent de comprendre ce que l'on peut observer avec les fréquences. Cela offre à l'utilisateur l'opportunité d'apprendre et de s'amuser en même temps, en explorant son propre corps pour répondre à ce qui lui est demandé.
 
 
