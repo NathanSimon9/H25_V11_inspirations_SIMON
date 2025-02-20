@@ -43,34 +43,34 @@ Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant co
 
 # **Dispositifs nécessaires**
 
-Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité interactive, notamment des caméras à haute, basse et normale fréquence, ainsi que de la lumière ultraviolette. Il faut également de grands écrans pour observer les résultats fascinants des effets produits par les fréquences. Des grosse boîte englobe touts les fils nécessaires et la technologie requise pour les écrans et caméras.
+Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité interactive, notamment des caméras à haute, basse et normale fréquence, ainsi que de la lumière ultraviolette. Il faut également de grands écrans pour observer les résultats fascinants des effets produits par les fréquences. Des grosse boîte englobe touts les fils nécessaires et la technologie requise pour les écrans et caméras. *Aucune photo ne peux être prise à l'interrieur de la boite (tecnhologie à l'interrieur fournis par  Pratt & Whitney*
 
 
 
 ### Caméras haute/ basse/ normal fréquence
-
+*fournis par Élément AI*
 ![image](Médias/camera_dispositif.jpg)
  *photo prise par moi*
 
 ### Lumière ultra violette
-
+*fournis par Élément Élément AI*
 ![image](Médias/lumiere_haute_frequence.jpg)
  *photo prise par moi*
 
 ### Gros écrans
-
+*fournis par Ubisoft*
 ![image](Médias/moi_normal.jpg)
 
 
  *photo prise par moi*
 
 ### Des fils
-
+*fournis par Centre des sciences*
 ![image](Médias/dispositif_lumiere.jpeg)
  *photo prise par moi*
 
 ### grosse boite
-
+*fournis par Centre des sciences*
 ![image](Médias/boite.jpeg)
  *photo prise par moi*
 
@@ -90,6 +90,7 @@ Ici, deux questions permettent de comprendre ce que l'on peut observer avec les 
 ## Appréciation
 
 J'ai toujours su ce que sont les rayons ultraviolets et les infrarouges, mais il est rare que nous ayons l'opportunité de voir ces fréquences en temps réel. Je trouve cela vraiment amusant, la manière dont ce dispositif est installé, de sorte que l'on puisse nous observer dans toutes les fréquences possibles au même moment. Personnellement, j'aurais ajouté plus de questions au sol, car je trouvais vraiment intéressant de comprendre ce que les hautes et basses fréquences peuvent représenter. Par exemple, le lien entre le rouge et la chaleur.
+
 
 *Si les technologies du Centre des sciences vous intéresse, allez les observer de vos propres yeux.*
 
