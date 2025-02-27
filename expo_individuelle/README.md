@@ -1,1 +1,1 @@
-Ceci es le fichier qui regroupe tout mes médias pour le projet sur l'exposition individuelle
+ce dossier contient les éléments pour mon tp2 lié à l'exposition individuelle
