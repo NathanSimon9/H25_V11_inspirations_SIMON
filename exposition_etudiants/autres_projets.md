@@ -64,11 +64,9 @@
 
 # Arcadia
 ### Équipe
-- <ins>**Kenza El Harrif</ins> :** 
-- <ins>**Isaac Fafard</ins> :** 
-- <ins>**Khaly Tia Sing</ins> :** 
-- <ins>**Delphine Grenier</ins> :** 
-- <ins>**Sitmonternna Yi</ins> :** 
+- <ins>**Dominic Yale</ins> :** Conception sonore
+- <ins>**William Beauvais</ins> :** Conception visuelle
+- <ins>**Anton Nikulin</ins> :** Programmeur
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
