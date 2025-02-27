@@ -12,9 +12,11 @@
 
 # Luminatura
 ### Équipe
-- **Vincent Delisle:** Développeur interactif et concepteur sonore
-- **Ikrame Rata:** Chargée de projet
-- **Jérémy Duverseau:** Directeur artistique
+- <ins>**Audrey Dandurant</ins> :** Directrice audio visuel, Gestionnaire de projet
+- <ins>**Camilia Bouatmani</ins> :** Directrice artistique
+- <ins>**Ihab Mouhajer</ins> :** Développeur interactif
+- <ins>**Justine Rousseau</ins> :** Programmeuse, Coordonatrice des médias
+- <ins>**Prethiah Rajaratnam</ins> :** Administratrice du projet
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
@@ -23,9 +25,9 @@
 
 # Etheria
 ### Équipe
-- **Vincent Delisle:** Développeur interactif et concepteur sonore
-- **Ikrame Rata:** Chargée de projet
-- **Jérémy Duverseau:** Directeur artistique
+- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
+- <ins>**Ikrame Rata</ins> :** Chargée de projet
+- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
@@ -34,9 +36,9 @@
 
 # Fuga
 ### Équipe
-- **Vincent Delisle:** Développeur interactif et concepteur sonore
-- **Ikrame Rata:** Chargée de projet
-- **Jérémy Duverseau:** Directeur artistique
+- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
+- <ins>**Ikrame Rata</ins> :** Chargée de projet
+- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
@@ -45,9 +47,9 @@
 
 # Internature
 ### Équipe
-- **Vincent Delisle:** Développeur interactif et concepteur sonore
-- **Ikrame Rata:** Chargée de projet
-- **Jérémy Duverseau:** Directeur artistique
+- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
+- <ins>**Ikrame Rata</ins> :** Chargée de projet
+- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
@@ -56,9 +58,9 @@
 
 # Arcadia
 ### Équipe
-- **Vincent Delisle:** Développeur interactif et concepteur sonore
-- **Ikrame Rata:** Chargée de projet
-- **Jérémy Duverseau:** Directeur artistique
+- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
+- <ins>**Ikrame Rata</ins> :** Chargée de projet
+- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
