@@ -4,8 +4,7 @@
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
-### cours incontournables
-### technique ou une composante technologique apprise
+
 
 
 # Luminatura
@@ -13,8 +12,7 @@
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
-### cours incontournables
-### technique ou une composante technologique apprise
+
 
 
 # Etheria
@@ -22,15 +20,15 @@
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
-### cours incontournables
-### technique ou une composante technologique apprise
+
 
 
 # Fuga
 ### Équipe
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
-### technique ou une composante technologique apprise
+## ressenti
+
 
 
 # Internature
@@ -38,8 +36,7 @@
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
-### cours incontournables
-### technique ou une composante technologique apprise
+
 
 
 # Arcadia
@@ -47,5 +44,8 @@
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
-### cours incontournables
-### technique ou une composante technologique apprise
+
+
+## cours incontournables
+## technique ou une composante technologique apprise
+
