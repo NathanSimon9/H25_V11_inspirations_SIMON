@@ -51,9 +51,11 @@
 
 # Internature
 ### Équipe
-- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
-- <ins>**Ikrame Rata</ins> :** Chargée de projet
-- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
+- <ins>**Kenza El Harrif</ins> :** Directrice artistique, Conception sonore, design visuel
+- <ins>**Isaac Fafard</ins> :** Intégrateur multimédias, Programmeur
+- <ins>**Khaly Tia Sing</ins> :** Chargée de projet, Intégratrice multimédias
+- <ins>**Delphine Grenier</ins> :** Gestionnaire de projet, Programmeuse
+- <ins>**Sitmonternna Yi</ins> :** Gestion des ressources techniques, Conception sonore
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
@@ -62,9 +64,11 @@
 
 # Arcadia
 ### Équipe
-- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
-- <ins>**Ikrame Rata</ins> :** Chargée de projet
-- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
+- <ins>**Kenza El Harrif</ins> :** 
+- <ins>**Isaac Fafard</ins> :** 
+- <ins>**Khaly Tia Sing</ins> :** 
+- <ins>**Delphine Grenier</ins> :** 
+- <ins>**Sitmonternna Yi</ins> :** 
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
