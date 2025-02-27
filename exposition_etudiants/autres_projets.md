@@ -38,9 +38,11 @@
 
 # Fuga
 ### Équipe
-- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
-- <ins>**Ikrame Rata</ins> :** Chargée de projet
-- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
+- <ins>**Abdel Ali Djeral</ins> :** Programmeur
+- <ins>**Daniel Dezemma</ins> :** Directeur visuel
+- <ins>**Matis Labelle</ins> :** Chargé de projet
+- <ins>**Tristan Khadka</ins> :** Directeur sonore
+- <ins>**Yavuz-Selim Gucluer</ins> :** Programmeur
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
