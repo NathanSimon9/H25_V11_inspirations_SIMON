@@ -25,9 +25,11 @@
 
 # Etheria
 ### Équipe
-- <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
-- <ins>**Ikrame Rata</ins> :** Chargée de projet
-- <ins>**Jérémy Duverseau</ins> :** Directeur artistique
+- <ins>**Joshua Gonzalez-Barrera</ins> :** Programmeur, Monteur vidéo, Artiste design
+- <ins>**Victor Gileau</ins> :** Programmeur, Artiste design
+- <ins>**Michael Un Dupré</ins> :** Programmeur, Artiste VFX/design
+- <ins>**Pierre-Luc Proul</ins> :** Programmeur, Artiste VFX/design, Artiste 3D
+- <ins>**Maik Hamel</ins> :** Programmeur, Compositeur sonore
 ### l'installation en cours (ou finale)
 ### schéma de l'installation prévue
 ## ressenti
