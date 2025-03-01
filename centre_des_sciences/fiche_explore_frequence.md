@@ -2,7 +2,7 @@
 
 Visite du jeudi 30 janvier 2025
 ![image](médias_complémentaire/centre_des_sciences(2).jpg)
-*photo du batiment (internette)*
+*photo du centre des sciences (internet)*
 
 
 # **Explore, caméra à fréquence** 
