@@ -52,19 +52,6 @@ Prélude met en lumière l'importance de la musique et des émotions dans ses fi
 ![image](media/centre_phi_batiment.jpg)
 *explication en photo*
 
-## **Dispositifs**
-
-
- *photo prise par moi*
-![image](media/centre_phi_batiment.jpg)
-*moi en haute fréquence*
-
-
- *photo prise par moi*
-
-
-
-*moi en basse fréquence*
 
 # **Dispositifs nécessaires**
 
