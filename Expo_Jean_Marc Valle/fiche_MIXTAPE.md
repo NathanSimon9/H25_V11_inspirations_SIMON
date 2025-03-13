@@ -1,14 +1,25 @@
-# Expo Jean-marc Vallé 
-
-Visite du 20 février 2025 (15 h 00)
+# Expo Jean-marc Vallé  
+### Visite du 20 février 2025 (15 h 00)
 ![image](media/centre_phi_batiment.jpg)
 *photo du centre PHI (internet)*
 
+Le Centre Phi a ouvert ses portes en 2007 à Montréal. Il est un espace culturel situé à Montréal, au Canada, qui se distingue par sa programmation innovante dans les domaines de l'art, de la technologie et de la culture. Il propose une expérience immersive en offrant des expositions, des performances, des installations multimédia, des projections et des événements interactifs qui explorent les frontières entre l'art traditionnel et les nouvelles technologies.
 
-# **Explore, caméra à fréquence** 
+Le Centre Phi met particulièrement l'accent sur l'innovation numérique et les projets immersifs, créant un dialogue entre l'art et les technologies émergentes telles que la réalité virtuelle, la réalité augmentée et les installations interactives. Il accueille des artistes locaux et internationaux, permettant au public de découvrir des œuvres avant-gardistes et de participer à des expériences culturelles uniques.
+
+Avec son architecture moderne et ses installations de pointe, le Centre Phi est devenu un lieu incontournable pour les passionnés d'art contemporain, de culture numérique et d'expériences sensorielles.
+
+
+
+
+
+
+
+# **Mixtape**
+![image](media/centre_phi_batiment.jpg)
 *photo prise par moi*
  
- *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
+ *Création exposition Jean-marc Vallé, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
  
 
  
