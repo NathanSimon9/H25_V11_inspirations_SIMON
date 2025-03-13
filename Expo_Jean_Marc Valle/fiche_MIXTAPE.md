@@ -1,7 +1,7 @@
 # Expo Jean-marc Vallé 
 
 Visite du 20 février 2025 (15 h 00)
-![image](médias_centre_phi_batiment.jpg)
+![image](media_centre_phi_batiment.jpg)
 *photo du centre des sciences (internet)*
 
 
