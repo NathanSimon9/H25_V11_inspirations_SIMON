@@ -11,11 +11,11 @@ Avec son architecture moderne et ses installations de pointe, le Centre Phi est 
 
 
  *Création exposition Jean-marc Vallé, en  en 2020 par centre PHI en collaboration avec :
- - <ins>**Grand partenaire :</ins> :** Québec
- - <ins>**Présenté par :</ins> :** Hydro Québec
- - <ins>**Avec le soutien de :</ins> :** Vieux montréal
+ - <ins>**Grand partenaire :</ins>** Québec
+ - <ins>**Présenté par :</ins>** Hydro Québec
+ - <ins>**Avec le soutien de :</ins> Vieux montréal
  - <ins>**Partenaire média</ins> :** La press
- - <ins>**Partenaire de diffusion :</ins> :** Cinéma Parc Musée
+ - <ins>**Partenaire de diffusion :</ins>** Cinéma Parc Musée
  
 
 # **Mixtape**
