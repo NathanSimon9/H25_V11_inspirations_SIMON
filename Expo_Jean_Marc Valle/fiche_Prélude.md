@@ -59,31 +59,28 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 
 
-### Caméras haute/ basse/ normal fréquence
+### 13 écrans
 *fournis par Élément AI*
 
  *photo prise par moi*
 
-### Lumière ultra violette
+### Maquette maison
 *fournis par Élément Élément AI*
 
  *photo prise par moi*
 
-### Gros écrans
+### Des lumieres
 *fournis par Ubisoft*
-
-
-
 
 
  *photo prise par moi*
 
-### Des fils
+### Système de son
 *fournis par Centre des sciences*
 
  *photo prise par moi*
 
-### grosse boite
+### Cables
 *fournis par Centre des sciences*
 
  *photo prise par moi*
