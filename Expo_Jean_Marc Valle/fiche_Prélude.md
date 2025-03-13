@@ -53,8 +53,7 @@ Prélude met en lumière l'importance de la musique et des émotions dans ses fi
 *explication en photo*
 
 ## **Dispositifs**
-À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
-Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
+
 
  *photo prise par moi*
 ![image](media/centre_phi_batiment.jpg)
