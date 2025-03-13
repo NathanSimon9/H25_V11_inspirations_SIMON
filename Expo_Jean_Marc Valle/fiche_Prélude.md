@@ -40,15 +40,16 @@ En résumé, "Mixtape" au Centre Phi était une célébration de la vision uniqu
 
 
 *photo prise par moi*
- 
+ ![image](media/centre_phi_batiment.jpg)
  *texte sur le monde invisible*
 
  
  ## **Prélude**
- Les caméras de fréquence sont des outils puissants qui permettent d'analyser et de visualiser des ondes électromagnétiques, sonores, et même des fréquences lumineuses dans des spectres au-delà de ce que nous pouvons percevoir. En explorant ces technologies, les visiteurs peuvent découvrir comment des phénomènes comme les ondes radio, les infrasons ou les ultrasons affectent notre quotidien sans que nous en soyons conscients.
+L'exposition Prélude au Centre Phi est une introduction immersive à l'univers cinématographique de Jean-Marc Vallée, réalisée avant l'exposition principale qui lui est dédiée. Elle permet aux visiteurs de découvrir l'approche unique du réalisateur à travers des projections, des installations et des éléments interactifs.
 
+Prélude met en lumière l'importance de la musique et des émotions dans ses films, tout en explorant ses méthodes de narration visuelle et sonore. L'exposition donne un aperçu de son processus créatif et de l'impact de son travail sur la culture cinématographique. C'est une manière de plonger progressivement dans l'univers de Jean-Marc Vallée, avant de vivre une expérience plus immersive et complète dans l'exposition principale qui lui est consacrée.
  *photo prise par moi*
-
+![image](media/centre_phi_batiment.jpg)
 *explication en photo*
 
 ## **Démonstration interactive**
@@ -56,7 +57,7 @@ En résumé, "Mixtape" au Centre Phi était une célébration de la vision uniqu
 Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
 
  *photo prise par moi*
-
+![image](media/centre_phi_batiment.jpg)
 *moi en haute fréquence*
 
 
