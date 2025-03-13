@@ -2,7 +2,7 @@
 
 Visite du 20 février 2025 (15 h 00)
 ![image](media/centre_phi_batiment.jpg)
-*photo du centre des sciences (internet)*
+*photo du centre PHI (internet)*
 
 
 # **Explore, caméra à fréquence** 
