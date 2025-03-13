@@ -1,5 +1,5 @@
 # Expo Jean-marc Vallé  
-### Visite du 20 février 2025 (15 h 00)
+### Visite du 20 février 2025 au centre PHI (15 h 00)
 ![image](media/centre_phi_batiment.jpg)
 *photo du centre PHI (internet)*
 
@@ -8,12 +8,6 @@ Le Centre Phi a ouvert ses portes en 2007 à Montréal. Il est un espace culture
 Le Centre Phi met particulièrement l'accent sur l'innovation numérique et les projets immersifs, créant un dialogue entre l'art et les technologies émergentes telles que la réalité virtuelle, la réalité augmentée et les installations interactives. Il accueille des artistes locaux et internationaux, permettant au public de découvrir des œuvres avant-gardistes et de participer à des expériences culturelles uniques.
 
 Avec son architecture moderne et ses installations de pointe, le Centre Phi est devenu un lieu incontournable pour les passionnés d'art contemporain, de culture numérique et d'expériences sensorielles.
-
-
-
-
-
-
 
 # **Mixtape**
 ![image](media/centre_phi_batiment.jpg)
