@@ -1,5 +1,5 @@
 # Expo Jean-marc Vallé  
-### Visite du 20 février 2025 au centre PHI (15 h 00)
+## Visite du 20 février 2025 au centre PHI (15 h 00)
 ![image](media/centre_phi_batiment.jpg)
 *photo du centre PHI (internet)*
 
