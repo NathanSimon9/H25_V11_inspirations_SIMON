@@ -100,7 +100,7 @@ Ici, deux questions permettent de comprendre ce que l'on peut observer avec les 
 
 ## Appréciation
 
-J'ai toujours su ce que sont les rayons ultraviolets et les infrarouges, mais il est rare que nous ayons l'opportunité de voir ces fréquences en temps réel. Je trouve cela vraiment amusant, la manière dont ce dispositif est installé, de sorte que l'on puisse nous observer dans toutes les fréquences possibles au même moment. Personnellement, j'aurais ajouté plus de questions au sol, car je trouvais vraiment intéressant de comprendre ce que les hautes et basses fréquences peuvent représenter. Par exemple, le lien entre le rouge et la chaleur.
+J'ai adoré l'exposition "Mixtape", notamment l'œuvre "Prélude". "Prélude" était très intéressante car nous étions vraiment entourés de plusieurs dispositifs, ce qui nous plongeait pleinement dans l'immersion. "Prélude" est super important car il nous prépare très bien à la suite de l'exposition. Cette étape, pour une personne qui ne connaissait pas l'œuvre de Jean-Marc Vallée, était très pertinente et m'a permis de mieux comprendre le reste de l'exposition.
 
 
 *Si les technologies du Centre des sciences vous intéresse, allez les observer de vos propres yeux.*
