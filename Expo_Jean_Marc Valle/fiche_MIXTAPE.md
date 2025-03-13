@@ -10,7 +10,12 @@ Le Centre Phi met particulièrement l'accent sur l'innovation numérique et les 
 Avec son architecture moderne et ses installations de pointe, le Centre Phi est devenu un lieu incontournable pour les passionnés d'art contemporain, de culture numérique et d'expériences sensorielles.
 
 
- *Création exposition Jean-marc Vallé, en  en 2020 par centre PHI en collaboration avec* <ins>****<ins>
+ *Création exposition Jean-marc Vallé, en  en 2020 par centre PHI en collaboration avec :
+ - <ins>**Grand partenaire :</ins> :** Québec
+ - <ins>**Présenté par :</ins> :** Hydro Québec
+ - <ins>**Avec le soutien de :</ins> :** Vieux montréal
+ - <ins>**Partenaire média</ins> :** La press
+ - <ins>**Partenaire de diffusion :</ins> :** Cinéma Parc Musée
  
 
 # **Mixtape**
