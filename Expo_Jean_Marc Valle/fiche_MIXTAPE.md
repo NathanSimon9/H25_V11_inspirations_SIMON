@@ -31,6 +31,12 @@ Jean-Marc Vallée était connu pour sa capacité à intégrer des bandes-son mé
 
 En résumé, "Mixtape" au Centre Phi était une célébration de la vision unique de Jean-Marc Vallée, où la musique et le cinéma s'entrelacent pour offrir une expérience immersive autour de ses œuvres.
 
+### ouevres
+- **Prélude**
+- **Courts métrages**
+- **Les mixtapes**
+- **Les voix**
+
 
 *photo prise par moi*
  
