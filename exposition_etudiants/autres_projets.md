@@ -30,7 +30,13 @@ Luminatura est présentement finalisée. Voici quelques photos pour vous montrer
 *photos du haut prise par Luminatura*
 
 *photos du bas prise par moi*
-### schéma de l'installation prévue
+## schéma de l'installation prévue
+# structure de base
+![image](medias/luminatura_structure_base.jpg)
+*schéma fait par Luminatura*
+
+<ins>source : https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/</ins>
+
 ## ressenti
 
 
