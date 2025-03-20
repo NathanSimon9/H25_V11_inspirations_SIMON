@@ -18,11 +18,11 @@
 - <ins>**Justine Rousseau</ins> :** Programmeuse, Coordonatrice des médias
 - <ins>**Prethiah Rajaratnam</ins> :** Administratrice du projet
 ### l'installation en cours (ou finale)
-![image](medias/luminature_fiche.jpg)
+![image](medias/luminatura_fiche.jpg)
 
 *photo prise par moi*
 
-![image](medias/luminatura_dispositif.jpg)
+![image](medias/luminature_dispositif.jpg)
 ### schéma de l'installation prévue
 ## ressenti
 
