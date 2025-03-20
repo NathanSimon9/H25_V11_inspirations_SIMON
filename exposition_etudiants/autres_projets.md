@@ -54,6 +54,9 @@ Je ne savais pas trop à quoi m'attendre avec ce dispositif, mais j'ai trouvé �
 - <ins>**Pierre-Luc Proul</ins> :** Programmeur, Artiste VFX/design, Artiste 3D
 - <ins>**Maik Hamel</ins> :** Programmeur, Compositeur sonore
 ### l'installation en cours (ou finale)
+### Fiche
+![image](medias/etheria/etheria_fiche.jpg)<br>
+*photo prise par moi*
 ### schéma de l'installation prévue
 ## ressenti
 
