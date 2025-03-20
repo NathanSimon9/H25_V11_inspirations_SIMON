@@ -11,7 +11,7 @@
 
 
 # Luminatura
-### Équipe
+## Équipe
 - <ins>**Audrey Dandurant</ins> :** Directrice audio visuel, Gestionnaire de projet
 - <ins>**Camilia Bouatmani</ins> :** Directrice artistique
 - <ins>**Ihab Mouhajer</ins> :** Développeur interactif
