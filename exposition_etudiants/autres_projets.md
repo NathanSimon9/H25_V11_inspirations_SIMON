@@ -69,6 +69,17 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 *photos du haut prise par moi*<br>
 *photos du bas prise par Étheria*
 ### schéma de l'installation prévue
+Voici le schéma réalisé par Luminatura, nous montrant la structure vue de haut prévue par l'équipe ainsi que leur nouvelle version du schéma.
+
+### Vu du haut
+![image](medias/etheria/etheria_haut.jpg)<br>
+*Schéma fait par Étheria*
+
+### Nouvelle version
+![image](medias/etheria/etheria_nouvelle.jpg)<br>
+*Schéma fait par Étheria*
+
+<ins>Source :</ins>
 ## ressenti
 ### Positif
 ### Négatif
