@@ -35,7 +35,9 @@ Luminatura est présentement finalisée. Voici quelques photos pour vous montrer
 ### Studio
 ![image](medias/luminatura_plantation_studio.jpg)<br>
 *schéma fait par Luminatura*
-<br>
+
+
+
 <ins>source :</ins> https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
 ## ressenti
