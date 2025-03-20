@@ -79,7 +79,7 @@ Voici le schéma réalisé par Luminatura, nous montrant la structure vue de hau
 ![image](medias/etheria/etheria_plantation_nouvelle.jpg)<br>
 *Schéma fait par Étheria*
 
-<ins>Source :</ins>
+<ins>Source :</ins>https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
 ## ressenti
 ### Positif
 ### Négatif
