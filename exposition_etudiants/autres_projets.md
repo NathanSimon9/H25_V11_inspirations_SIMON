@@ -5,7 +5,7 @@
 - <ins>**Ikrame Rata</ins> :** Chargée de projet
 - <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ### l'installation en cours (ou finale)
-![image](médias/luminatura_fiche.jpg)
+![image](medias/luminatura_fiche.jpg)
 ### schéma de l'installation prévue
 ## ressenti
 
