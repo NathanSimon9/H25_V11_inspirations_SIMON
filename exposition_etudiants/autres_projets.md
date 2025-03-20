@@ -42,6 +42,7 @@ Voici le schéma réalisé par Luminatura, nous montrant la structure de base pr
 <ins>source :</ins> https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
 ## ressenti
+Je ne savais pas trop à quoi m'attendre avec ce dispositif, mais j'ai trouvé ça très spécial, très beau visuellement et très créatif. Par contre, je trouve qu'il manque de diversité. Trop rapidement, j'avais vu tout ce qu'il y avait à voir.
 
 
 
