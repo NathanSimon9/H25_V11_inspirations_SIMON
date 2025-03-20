@@ -18,10 +18,13 @@
 - <ins>**Justine Rousseau</ins> :** Programmeuse, Coordonatrice des médias
 - <ins>**Prethiah Rajaratnam</ins> :** Administratrice du projet
 ### l'installation en cours (ou finale)
+Luminatura est présentement finalisée. Voici quelques photos pour vous montrer visuellement Luminatura ainsi que sa fiche explicative.
+### Fiche
 ![image](medias/luminatura_fiche.jpg)
 
 *photo prise par moi*
 
+### Photos a l'appuie
 ![image](medias/luminature_dispositif.jpg)
 
 *photos du haut prise par Luminatura*
