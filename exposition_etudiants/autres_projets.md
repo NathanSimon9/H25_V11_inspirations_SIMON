@@ -25,6 +25,7 @@
 ![image](medias/luminature_dispositif.jpg)
 
 *photos du haut prise par Luminatura*
+
 *photos du bas prise par moi*
 ### schéma de l'installation prévue
 ## ressenti
