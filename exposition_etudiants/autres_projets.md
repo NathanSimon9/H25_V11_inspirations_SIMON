@@ -52,13 +52,13 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 
 
 # Étheria
-### Équipe
+## Équipe
 - <ins>**Joshua Gonzalez-Barrera</ins> :** Programmeur, Monteur vidéo, Artiste design
 - <ins>**Victor Gileau</ins> :** Programmeur, Artiste design
 - <ins>**Michael Un Dupré</ins> :** Programmeur, Artiste VFX/design
 - <ins>**Pierre-Luc Proul</ins> :** Programmeur, Artiste VFX/design, Artiste 3D
 - <ins>**Maik Hamel</ins> :** Programmeur, Compositeur sonore
-### l'installation en cours (ou finale)
+## l'installation en cours (ou finale)
 Étheria est présentement finalisée. Voici quelques photos pour vous montrer visuellement Étheria ainsi que sa fiche explicative.
 ### Fiche
 
@@ -68,7 +68,7 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 ![image](medias/etheria/etheria_dispositif.jpg)<br>
 *photos du haut prise par moi*<br>
 *photos du bas prise par Étheria*
-### schéma de l'installation prévue
+## schéma de l'installation prévue
 Voici le schéma réalisé par Luminatura, nous montrant la structure vue de haut prévue par l'équipe ainsi que leur nouvelle version du schéma.
 
 ### Vu du haut
@@ -92,13 +92,17 @@ Je recommande Étheria à toute personne qui adore découvrir différentes mani�
 
 
 # Fuga
-### Équipe
+## Équipe
 - <ins>**Abdel Ali Djeral</ins> :** Programmeur
 - <ins>**Daniel Dezemma</ins> :** Directeur visuel
 - <ins>**Matis Labelle</ins> :** Chargé de projet
 - <ins>**Tristan Khadka</ins> :** Directeur sonore
 - <ins>**Yavuz-Selim Gucluer</ins> :** Programmeur
-### l'installation en cours (ou finale)
+## l'installation en cours (ou finale)
+Fuga est présentement finalisée. Voici quelques photos pour vous montrer visuellement Fuga ainsi que sa fiche explicative.
+### Fiche
+![image](medias/fuga/fuga_fiche.jpg)<br>
+*photo prise par moi*
 ### schéma de l'installation prévue
 ## ressenti
 
