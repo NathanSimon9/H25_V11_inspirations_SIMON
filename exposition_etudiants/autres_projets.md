@@ -72,11 +72,11 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 Voici le schéma réalisé par Luminatura, nous montrant la structure vue de haut prévue par l'équipe ainsi que leur nouvelle version du schéma.
 
 ### Vu du haut
-![image](medias/etheria/etheria_haut.jpg)<br>
+![image](medias/etheria/etheria_plantation_haut.jpg)<br>
 *Schéma fait par Étheria*
 
 ### Nouvelle version
-![image](medias/etheria/etheria_nouvelle.jpg)<br>
+![image](medias/etheria/etheria_plantation_nouvelle.jpg)<br>
 *Schéma fait par Étheria*
 
 <ins>Source :</ins>
