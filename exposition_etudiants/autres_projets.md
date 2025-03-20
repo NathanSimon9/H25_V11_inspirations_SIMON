@@ -105,7 +105,7 @@ Fuga est présentement finalisée. Voici quelques photos pour vous montrer visue
 *photo prise par moi*
 
 ### Photos à l'appui
-![image](medias/fuga/fuga_fiche.jpg)<br>
+![image](medias/fuga/fuga_dispositif.jpg)<br>
 *photos prises par Fuga*
 ## schéma de l'installation prévue
 ## ressenti
