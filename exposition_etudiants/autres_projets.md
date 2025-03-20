@@ -19,6 +19,7 @@
 - <ins>**Prethiah Rajaratnam</ins> :** Administratrice du projet
 ### l'installation en cours (ou finale)
 ![image](medias/luminatura_fiche.jpg)
+
 *photo prise par moi*
 ### schéma de l'installation prévue
 ## ressenti
