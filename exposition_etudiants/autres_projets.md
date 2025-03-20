@@ -82,8 +82,12 @@ Voici le schéma réalisé par Luminatura, nous montrant la structure vue de hau
 <ins>Source :</ins>https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
 ## ressenti
 ### Positif
+Dispositif vraiment très amusant. Nous pouvons jouer jusqu'à 3 joueurs en équipe. Le jeu se joue très bien et l'idée des verres pour bouger son personnage est très spéciale. Le fait que chaque personnage soit différent et ait des pouvoirs différents rend le travail d'équipe plus pertinent.
 ### Négatif
+Le jeu est un peu trop facile. J'ai joué deux fois avec deux équipes différentes et j'ai gagné les deux fois. Six niveaux, ce n'était pas assez. Un des créateurs du jeu m'a dit qu'à la base, ils voulaient en faire 10, mais que cela aurait été trop long.
 ### Recommandation
+Je recommande Étheria à toute personne qui adore découvrir différentes manières de jouer à des jeux.
+
 
 
 
