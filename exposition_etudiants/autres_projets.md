@@ -20,21 +20,21 @@
 ## l'installation en cours (ou finale)
 Luminatura est présentement finalisée. Voici quelques photos pour vous montrer visuellement Luminatura ainsi que sa fiche explicative.
 ### Fiche
-![image](medias/luminatura_fiche.jpg)<br>
+![image](medias/luminatura/luminatura_fiche.jpg)<br>
 *photo prise par moi*
 
 ### Photos a l'appuie
-![image](medias/luminature_dispositif.jpg)<br>
+![image](medias/luminatura/luminature_dispositif.jpg)<br>
 *photos du haut prise par Luminatura*<br>
 *photos du bas prise par moi*
 ## schéma de l'installation prévue
 Voici le schéma réalisé par Luminatura, nous montrant la structure de base prévue par l'équipe ainsi que le schéma du studio prévu.
 ### structure de base
-![image](medias/luminatura_plantation_structure_base.jpg)<br>
+![image](medias/luminatura/luminatura_plantation_structure_base.jpg)<br>
 *schéma fait par Luminatura*
 
 ### Studio
-![image](medias/luminatura_plantation_studio.jpg)<br>
+![image](medias/luminatura/luminatura_plantation_studio.jpg)<br>
 *schéma fait par Luminatura*
 
 
