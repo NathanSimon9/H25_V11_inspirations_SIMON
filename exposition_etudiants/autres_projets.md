@@ -42,7 +42,12 @@ Voici le schéma réalisé par Luminatura, nous montrant la structure de base pr
 <ins>source :</ins> https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
 ## ressenti
-Je ne savais pas trop à quoi m'attendre avec ce dispositif, mais j'ai trouvé ça très spécial, très beau visuellement et très créatif. Par contre, je trouve qu'il manque de diversité. Trop rapidement, j'avais vu tout ce qu'il y avait à voir.
+### positif
+Je trouvais ça très beau visuellement, les couleurs, le son, etc. Je trouvais ça très pertinent aussi qu'il y ait trois plaquettes pour pouvoir vraiment jouer avec les couleurs, permettant à trois personnes de participer en même temps. On ressentait vraiment que nous contrôlions les couleurs avec notre aura intérieure.
+### négatif
+J'ai moins aimé le fait qu'il n'y ait plus de nouveautés trop rapidement. Pour ma part, lorsqu'une plaquette était touchée, c'était toujours la même couleur, et pareil lorsque deux ou trois plaquettes étaient activées en même temps. Il manquait de variété.
+### recommadation
+Je recommande Luminatura à toute personne adorant les activités où le décor est très joli et rempli de couleurs.
 
 
 
