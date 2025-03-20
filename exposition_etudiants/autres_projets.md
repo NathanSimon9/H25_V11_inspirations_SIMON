@@ -59,6 +59,10 @@ Je ne savais pas trop à quoi m'attendre avec ce dispositif, mais j'ai trouvé �
 
 ![image](medias/etheria/etheria_fiche.jpg)<br>
 *photo prise par moi*
+### Photos a l'appuie
+![image](medias/etheria/etheria_dispositif.jpg)<br>
+*photos du haut prise par moi*<br>
+*photos du bas prise par Étheria*
 ### schéma de l'installation prévue
 ## ressenti
 
