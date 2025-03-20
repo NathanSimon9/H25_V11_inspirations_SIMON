@@ -5,7 +5,6 @@
 - <ins>**Ikrame Rata</ins> :** Chargée de projet
 - <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ### l'installation en cours (ou finale)
-![image](medias/luminatura_fiche.jpg)
 ### schéma de l'installation prévue
 ## ressenti
 
@@ -19,6 +18,7 @@
 - <ins>**Justine Rousseau</ins> :** Programmeuse, Coordonatrice des médias
 - <ins>**Prethiah Rajaratnam</ins> :** Administratrice du projet
 ### l'installation en cours (ou finale)
+![image](medias/luminatura_fiche.jpg)
 ### schéma de l'installation prévue
 ## ressenti
 
