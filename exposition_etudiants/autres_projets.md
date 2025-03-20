@@ -23,7 +23,7 @@ Luminatura est présentement finalisée. Voici quelques photos pour vous montrer
 ![image](medias/luminatura/luminatura_fiche.jpg)<br>
 *photo prise par moi*
 
-### Photos a l'appuie
+### Photos à l'appui
 ![image](medias/luminatura/luminature_dispositif.jpg)<br>
 *photos du haut prise par Luminatura*<br>
 *photos du bas prise par moi*
@@ -64,10 +64,10 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 
 ![image](medias/etheria/etheria_fiche.jpg)<br>
 *photo prise par moi*
-### Photos a l'appuie
+### Photos à l'appui
 ![image](medias/etheria/etheria_dispositif.jpg)<br>
-*photos du haut prise par moi*<br>
-*photos du bas prise par Étheria*
+*photos du haut prises par moi*<br>
+*photos du bas prises par Étheria*
 ## schéma de l'installation prévue
 Voici le schéma réalisé par Luminatura, nous montrant la structure vue de haut prévue par l'équipe ainsi que leur nouvelle version du schéma.
 
@@ -103,7 +103,11 @@ Fuga est présentement finalisée. Voici quelques photos pour vous montrer visue
 ### Fiche
 ![image](medias/fuga/fuga_fiche.jpg)<br>
 *photo prise par moi*
-### schéma de l'installation prévue
+
+### Photos à l'appui
+![image](medias/fuga/fuga_fiche.jpg)<br>
+*photos prises par Fuga*
+## schéma de l'installation prévue
 ## ressenti
 
 
