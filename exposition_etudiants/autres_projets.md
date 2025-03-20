@@ -1,11 +1,11 @@
 
 # Prismatica
-### Équipe
+## Équipe
 - <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
 - <ins>**Ikrame Rata</ins> :** Chargée de projet
 - <ins>**Jérémy Duverseau</ins> :** Directeur artistique
-### l'installation en cours (ou finale)
-### schéma de l'installation prévue
+## l'installation en cours (ou finale)
+## schéma de l'installation prévue
 ## ressenti
 
 
@@ -17,7 +17,7 @@
 - <ins>**Ihab Mouhajer</ins> :** Développeur interactif
 - <ins>**Justine Rousseau</ins> :** Programmeuse, Coordonatrice des médias
 - <ins>**Prethiah Rajaratnam</ins> :** Administratrice du projet
-### l'installation en cours (ou finale)
+## l'installation en cours (ou finale)
 Luminatura est présentement finalisée. Voici quelques photos pour vous montrer visuellement Luminatura ainsi que sa fiche explicative.
 ### Fiche
 ![image](medias/luminatura_fiche.jpg)
