@@ -20,8 +20,7 @@
 ## l'installation en cours (ou finale)
 Luminatura est présentement finalisée. Voici quelques photos pour vous montrer visuellement Luminatura ainsi que sa fiche explicative.
 ### Fiche
-![image](medias/luminatura_fiche.jpg)
-
+![image](medias/luminatura_fiche.jpg)<br>
 *photo prise par moi*
 
 ### Photos a l'appuie
