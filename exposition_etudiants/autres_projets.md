@@ -70,6 +70,9 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 *photos du bas prise par Étheria*
 ### schéma de l'installation prévue
 ## ressenti
+### Positif
+### Négatif
+### Recommandation
 
 
 
