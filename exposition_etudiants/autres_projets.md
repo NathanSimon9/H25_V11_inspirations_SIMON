@@ -46,7 +46,7 @@ Je ne savais pas trop à quoi m'attendre avec ce dispositif, mais j'ai trouvé �
 
 
 
-# Etheria
+# Étheria
 ### Équipe
 - <ins>**Joshua Gonzalez-Barrera</ins> :** Programmeur, Monteur vidéo, Artiste design
 - <ins>**Victor Gileau</ins> :** Programmeur, Artiste design
@@ -55,6 +55,7 @@ Je ne savais pas trop à quoi m'attendre avec ce dispositif, mais j'ai trouvé �
 - <ins>**Maik Hamel</ins> :** Programmeur, Compositeur sonore
 ### l'installation en cours (ou finale)
 ### Fiche
+Étheria est présentement finalisée. Voici quelques photos pour vous montrer visuellement Étheria ainsi que sa fiche explicative.
 ![image](medias/etheria/etheria_fiche.jpg)<br>
 *photo prise par moi*
 ### schéma de l'installation prévue
