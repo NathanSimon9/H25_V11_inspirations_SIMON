@@ -108,6 +108,20 @@ Fuga est présentement finalisée. Voici quelques photos pour vous montrer visue
 ![image](medias/fuga/fuga_dispositif.jpg)<br>
 *photos prises par Fuga*
 ## schéma de l'installation prévue
+Voici le schéma réalisé par Fuga, nous montrant la structure vue de haut, de coté et de face par l'équipe.
+### Face
+![image](medias/fuga/fuga_plantation_face.jpg)<br>
+*Schéma fait par Fuga*
+
+### Haut
+![image](medias/fuga/fuga_plantation_haut.jpg)<br>
+*Schéma fait par Fuga*
+
+### Coté
+![image](medias/fuga/fuga_plantation_cote.jpg)<br>
+*Schéma fait par Fuga*
+
+<ins>Source :</ins>https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
 ## ressenti
 
 
