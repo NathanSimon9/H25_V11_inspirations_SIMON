@@ -231,13 +231,14 @@ Arcadia est présentement en cours. Voici quelques photos pour vous montrer visu
 ### schéma de l'installation prévue
 Voici le schéma réalisé par Arcadia, nous montrant la l'emplacement pour Arcadia.
 ### Emplacement
-![image](medias/arcadia/arcadia_plantatio.jpg)<br>
+![image](medias/arcadia/arcadia_plantation.jpg)<br>
 *Schéma fait par Arcadia*
 
 <ins>/Source :</ins>https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 ## ressenti
-
+Je n'ai pas de ressenti. Le dispositif a l'air plaisant, mais lorsque je me suis présenté, il n'était pas fonctionnel et il n'y avait personne de présent, donc je n'ai pas pu l'essayer ou même le voir ouvert.
 
 ## cours incontournables
+
 ## technique ou une composante technologique apprise
 
