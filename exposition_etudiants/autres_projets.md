@@ -1,5 +1,5 @@
 
-# ![image](medias/prismatica/prismatica_logo.jpg)
+# ![image](medias/prismatica/logo_prismatica.jpg)
 ## Équipe
 - <ins>**Vincent Delisle</ins> :** Développeur interactif et concepteur sonore
 - <ins>**Ikrame Rata</ins> :** Chargée de projet
