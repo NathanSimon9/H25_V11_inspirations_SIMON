@@ -51,7 +51,7 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 
 
 
-#  ![image](medias/etheria/etheria_logo.jpg)
+# Etheria ![image](medias/etheria/etheria_logo.jpg)
 ## Équipe
 - <ins>**Joshua Gonzalez-Barrera</ins> :** Programmeur, Monteur vidéo, Artiste design
 - <ins>**Victor Gileau</ins> :** Programmeur, Artiste design
@@ -59,7 +59,7 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 - <ins>**Pierre-Luc Proul</ins> :** Programmeur, Artiste VFX/design, Artiste 3D
 - <ins>**Maik Hamel</ins> :** Programmeur, Compositeur sonore
 ## l'installation en cours (ou finale)
-Étheria est présentement finalisée. Voici quelques photos pour vous montrer visuellement Étheria ainsi que sa fiche explicative.
+Etheria est présentement finalisée. Voici quelques photos pour vous montrer visuellement Etheria ainsi que sa fiche explicative.
 ### Fiche
 
 ![image](medias/etheria/etheria_fiche.jpg)<br>
@@ -69,15 +69,15 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 *photos du haut prises par moi*<br>
 *photos du bas prises par Étheria*
 ## schéma de l'installation prévue
-Voici le schéma réalisé par Luminatura, nous montrant la structure vue de haut prévue par l'équipe ainsi que leur nouvelle version du schéma.
+Voici le schéma réalisé par Etheria, nous montrant la structure vue de haut prévue par l'équipe ainsi que leur nouvelle version du schéma.
 
 ### Vu du haut
 ![image](medias/etheria/etheria_plantation_haut.jpg)<br>
-*Schéma fait par Étheria*
+*Schéma fait par Etheria*
 
 ### Nouvelle version
 ![image](medias/etheria/etheria_plantation_nouvelle.jpg)<br>
-*Schéma fait par Étheria*
+*Schéma fait par Etheria*
 
 <ins>Source :</ins>https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/
 ## ressenti
@@ -86,7 +86,7 @@ Dispositif vraiment très amusant. Nous pouvons jouer jusqu'à 3 joueurs en équ
 ### Négatif
 Le jeu est un peu trop facile. J'ai joué deux fois avec deux équipes différentes et j'ai gagné les deux fois. Six niveaux, ce n'était pas assez. Un des créateurs du jeu m'a dit qu'à la base, ils voulaient en faire 10, mais que cela aurait été trop long.
 ### Recommandation
-Je recommande Étheria à toute personne qui adore découvrir différentes manières de jouer à des jeux.
+Je recommande Etheria à toute personne qui adore découvrir différentes manières de jouer à des jeux.
 
 
 
