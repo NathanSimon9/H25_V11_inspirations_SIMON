@@ -229,6 +229,12 @@ Arcadia est présentement en cours. Voici quelques photos pour vous montrer visu
 ![image](medias/arcadia/arcadia_dispositif.jpg)<br>
 *photo prise par Arcadia*
 ### schéma de l'installation prévue
+Voici le schéma réalisé par Arcadia, nous montrant la l'emplacement pour Arcadia.
+### Emplacement
+![image](medias/arcadia/arcadia_plantatio.jpg)<br>
+*Schéma fait par Arcadia*
+
+<ins>/Source :</ins>https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/
 ## ressenti
 
 
