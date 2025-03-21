@@ -41,6 +41,8 @@ J'aime un peu moins le fait de mettre un casque, car je sens que je suis plus is
 ### Recommandation
 Je recommande Prismatica à toutes les personnes qui aiment tester de nouvelles choses qu'elles n'auraient jamais imaginé essayer.
 
+
+
 #  ![image](medias/luminatura/luminatura_logo.jpg)
 ## Équipe
 - <ins>**Audrey Dandurant</ins> :** Directrice audio visuel, Gestionnaire de projet
@@ -80,6 +82,7 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 
 
 
+
 #  ![image](medias/etheria/etheria_logo.jpg)
 ## Équipe
 - <ins>**Joshua Gonzalez-Barrera</ins> :** Programmeur, Monteur vidéo, Artiste design
@@ -116,6 +119,7 @@ Dispositif vraiment très amusant. Nous pouvons jouer jusqu'à 3 joueurs en équ
 Le jeu est un peu trop facile. J'ai joué deux fois avec deux équipes différentes et j'ai gagné les deux fois. Six niveaux, ce n'était pas assez. Un des créateurs du jeu m'a dit qu'à la base, ils voulaient en faire 10, mais que cela aurait été trop long.
 ### Recommandation
 Je recommande Etheria à toute personne qui adore découvrir différentes manières de jouer à des jeux.
+
 
 
 
@@ -207,6 +211,8 @@ Couleurs très harmonieuses et chaleureuses. L'idée de la sphère m'a épater. 
 J'ai cru avoir compris qu'il fallait parfois un certain temps pour régénérer la sphère. À mon tour d'essayer, elle ne marchait pas...
 ### Recomandation
 Je recommande Internature à tous ceux qui sont amateurs d'expériences immersives remplies de couleurs.
+
+
 
 # ![image](medias/arcadia/arcadia_logo.jpg)
 ### Équipe
