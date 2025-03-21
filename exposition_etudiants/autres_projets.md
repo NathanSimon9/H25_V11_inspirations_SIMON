@@ -9,6 +9,10 @@ Prismatica est présentement finalisée. Voici quelques photos pour vous montrer
 ### Fiche
 ![image](medias/prismatica/prismatica_fiche.jpg)<br>
 *photo prise par Cyrine Ghiat*
+
+### Photos à l'appui
+![image](medias/prismatica/prismatica_dispositif.jpg)<br>
+*photo prise par Prismatica*
 ## schéma de l'installation prévue
 ## ressenti
 
