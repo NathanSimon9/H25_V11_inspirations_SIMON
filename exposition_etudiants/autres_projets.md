@@ -222,7 +222,12 @@ Je recommande Internature à tous ceux qui sont amateurs d'expériences immersiv
 ### l'installation en cours (ou finale)
 Arcadia est présentement en cours. Voici quelques photos pour vous montrer visuellement Arcadia ainsi que sa fiche explicative.
 ### Fiche
-![image](medias/arcadia/arcadia_logo.jpg)
+![image](medias/arcadia/arcadia_fiche.jpg)<br>
+*photo prise par Cyrine Ghiat*
+
+### Photos à l'appui
+![image](medias/arcadia/arcadia_dispositif.jpg)<br>
+*photo prise par Arcadia*
 ### schéma de l'installation prévue
 ## ressenti
 
