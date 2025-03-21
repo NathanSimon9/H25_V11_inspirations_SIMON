@@ -35,9 +35,11 @@ Voici le schéma réalisé par Prismatica, nous montrant différent point de vu 
 <ins>Source :</ins>https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
 ## ressenti
 ### Positif
+C'est très spécial de pouvoir entendre des couleurs. C'est quelque chose que je n'aurais jamais imaginé, car je n'avais jamais pensé à l'idée que des couleurs pourraient avoir du son.
 ### Négatif
+J'aime un peu moins le fait de mettre un casque, car je sens que je suis plus isolé. J'aurais préféré personnellement que tout le monde puisse voir et entendre ce que l'on fait.
 ### Recommandation
-
+Je recommande Prismatica à toutes les personnes qui aiment tester de nouvelles choses qu'elles n'auraient jamais imaginé essayer.
 
 #  ![image](medias/luminatura/luminatura_logo.jpg)
 ## Équipe
