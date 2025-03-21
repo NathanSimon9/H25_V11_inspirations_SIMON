@@ -91,7 +91,7 @@ Je recommande Etheria à toute personne qui adore découvrir différentes maniè
 
 
 
-# Fuga      ![image](medias/fuga/fugo_logo.jpg)
+# ![image](medias/fuga/fuga_logo.jpg)
 ## Équipe
 - <ins>**Abdel Ali Djeral</ins> :** Programmeur
 - <ins>**Daniel Dezemma</ins> :** Directeur visuel
