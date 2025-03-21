@@ -68,8 +68,6 @@ Voici le schéma réalisé par Luminatura, nous montrant la structure de base pr
 ![image](medias/luminatura/luminatura_plantation_studio.jpg)<br>
 *schéma fait par Luminatura*
 
-
-
 <ins>source :</ins> https://miaou-mafia.github.io/projet-luminatura/#/30_production/60_plantation/
 
 ## ressenti
