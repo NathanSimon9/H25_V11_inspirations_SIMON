@@ -5,6 +5,10 @@
 - <ins>**Ikrame Rata</ins> :** Chargée de projet
 - <ins>**Jérémy Duverseau</ins> :** Directeur artistique
 ## l'installation en cours (ou finale)
+Prismatica est présentement finalisée. Voici quelques photos pour vous montrer visuellement Prismatica ainsi que sa fiche explicative.
+### Fiche
+![image](medias/prismatica/prismatica_fiche.jpg)<br>
+*photo prise par Cyrine Ghiat*
 ## schéma de l'installation prévue
 ## ressenti
 
