@@ -148,6 +148,11 @@ Internature est présentement finalisée. Voici quelques photos pour vous montre
 *Première photo du haut à gauche prise par Internature*<br>
 *Autre photos prises par moi*
 ## schéma de l'installation prévue
+Voici le schéma réalisé par Internature, nous montrant la structure du studio, de le sphère et de différentre serre par l'équipe.
+
+### Serre - studio
+
+https://tprangers.github.io/internature/#/30_production/60_plantation/
 ## ressenti
 
 
