@@ -145,7 +145,7 @@ Internature est présentement finalisée. Voici quelques photos pour vous montre
 
 ### Photos à l'appui
 ![image](medias/internature/internature_dispositif.jpg)<br>
-*Première photo du haut à gauche prise par Internature*
+*Première photo du haut à gauche prise par Internature*<br>
 *Autre photos prises par moi*
 ## schéma de l'installation prévue
 ## ressenti
