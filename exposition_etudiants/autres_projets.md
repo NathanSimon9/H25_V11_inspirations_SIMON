@@ -51,7 +51,7 @@ Je recommande Luminatura à toute personne adorant les activités où le décor 
 
 
 
-# Etheria ![image](medias/etheria/etheria_logo.jpg)
+#  ![image](medias/etheria/etheria_logo.jpg)
 ## Équipe
 - <ins>**Joshua Gonzalez-Barrera</ins> :** Programmeur, Monteur vidéo, Artiste design
 - <ins>**Victor Gileau</ins> :** Programmeur, Artiste design
