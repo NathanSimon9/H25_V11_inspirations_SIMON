@@ -12,7 +12,7 @@ Prismatica est présentement finalisée. Voici quelques photos pour vous montrer
 
 ### Photos à l'appui
 ![image](medias/prismatica/prismatica_dispositif.jpg)<br>
-*photo prise par Prismatica*
+*photos prises par Prismatica*
 ## schéma de l'installation prévue
 ## ressenti
 
