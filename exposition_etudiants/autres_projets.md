@@ -208,7 +208,7 @@ J'ai cru avoir compris qu'il fallait parfois un certain temps pour régénérer 
 ### Recomandation
 Je recommande Internature à tous ceux qui sont amateurs d'expériences immersives remplies de couleurs.
 
-# Arcadia
+# ![image](medias/arcadia/arcadia_logo.jpg)
 ### Équipe
 - <ins>**Dominic Yale</ins> :** Conception sonore
 - <ins>**William Beauvais</ins> :** Conception visuelle
