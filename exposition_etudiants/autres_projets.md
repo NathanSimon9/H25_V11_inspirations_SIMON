@@ -151,8 +151,26 @@ Internature est présentement finalisée. Voici quelques photos pour vous montre
 Voici le schéma réalisé par Internature, nous montrant la structure du studio, de le sphère et de différentre serre par l'équipe.
 
 ### Serre - studio
+![image](medias/internature/internature_plantation_serre_studio.jpg)<br>
+*Schéma fait par Internature*
 
-https://tprangers.github.io/internature/#/30_production/60_plantation/
+### Serre - vue 3D
+![image](medias/internature/internature_plantation_serre_3d.jpg)<br>
+*Schéma fait par Internature*
+
+### Serre - vue de haut
+![image](medias/internature/internature_plantation_serre_haut.jpg)<br>
+*Schéma fait par Internature*
+
+### Sphère
+![image](medias/internature/internature_plantation_sphere.jpg)<br>
+*Schéma fait par Internature*
+
+### Serre - connecteurs
+![image](medias/internature/internature_plantation_connecteur.jpg)<br>
+*Schéma fait par Internature*
+
+<ins>source :</ins>https://tprangers.github.io/internature/#/30_production/60_plantation/
 ## ressenti
 
 
