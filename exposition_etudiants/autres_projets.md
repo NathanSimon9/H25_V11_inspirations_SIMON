@@ -14,6 +14,10 @@ Prismatica est présentement finalisée. Voici quelques photos pour vous montrer
 ![image](medias/prismatica/prismatica_dispositif.jpg)<br>
 *photos prises par Prismatica*
 ## schéma de l'installation prévue
+Voici le schéma réalisé par Prismatica, nous montrant différent point de vu ainsi que le cable pour le projecteur.
+
+### vu 
+https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
 ## ressenti
 
 
