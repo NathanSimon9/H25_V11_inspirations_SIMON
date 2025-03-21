@@ -172,8 +172,12 @@ Voici le schéma réalisé par Internature, nous montrant la structure du studio
 
 <ins>source :</ins>https://tprangers.github.io/internature/#/30_production/60_plantation/
 ## ressenti
-
-
+### Positif
+Couleurs très harmonieuses et chaleureuses. L'idée de la sphère m'a épater. Je trouvais ça drôle, je voyais les gens, on dirait qu'ils étaient des voyants, et en agitant la sphère, ils faisaient bouger les couleurs partout autour de nous. C'était très beau.
+### Négatif
+J'ai cru avoir compris qu'il fallait parfois un certain temps pour régénérer la sphère. À mon tour d'essayer, elle ne marchait pas...
+### Recomandation
+Je recommande Internature à tous ceux qui sont amateurs d'expériences immersives remplies de couleurs.
 
 # Arcadia
 ### Équipe
