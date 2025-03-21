@@ -220,6 +220,9 @@ Je recommande Internature à tous ceux qui sont amateurs d'expériences immersiv
 - <ins>**William Beauvais</ins> :** Conception visuelle
 - <ins>**Anton Nikulin</ins> :** Programmeur
 ### l'installation en cours (ou finale)
+Arcadia est présentement en cours. Voici quelques photos pour vous montrer visuellement Arcadia ainsi que sa fiche explicative.
+### Fiche
+![image](medias/arcadia/arcadia_logo.jpg)
 ### schéma de l'installation prévue
 ## ressenti
 
