@@ -131,14 +131,23 @@ Je trouve que le fait que tout se passe sur un écran rend l'expérience moins a
 Je recommande Fuga à toute personne qui adore les jeux de création avec plusieurs possibilités.
 
 # Internature
-### Équipe
+## Équipe
 - <ins>**Kenza El Harrif</ins> :** Directrice artistique, Conception sonore, design visuel
 - <ins>**Isaac Fafard</ins> :** Intégrateur multimédias, Programmeur
 - <ins>**Khaly Tia Sing</ins> :** Chargée de projet, Intégratrice multimédias
 - <ins>**Delphine Grenier</ins> :** Gestionnaire de projet, Programmeuse
 - <ins>**Sitmonternna Yi</ins> :** Gestion des ressources techniques, Conception sonore
-### l'installation en cours (ou finale)
-### schéma de l'installation prévue
+## l'installation en cours (ou finale)
+Internature est présentement finalisée. Voici quelques photos pour vous montrer visuellement Internature ainsi que sa fiche explicative.
+### Fiche
+![image](medias/internature/internature_fiche.jpg)<br>
+*photo prise par Cyrine Ghiat*
+
+### Photos à l'appui
+![image](medias/internature/internature_dispositif.jpg)<br>
+*Première photo du haut à gauche prise par Internature*
+*Autre photos prises par moi*
+## schéma de l'installation prévue
 ## ressenti
 
 
