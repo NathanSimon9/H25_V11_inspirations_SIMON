@@ -1,12 +1,12 @@
 # ![image](medias/condu8/condu8_logo.jpg)
-# Expo centre des sciences
+# Expo résonnance
 
 Visite du jeudi 30 janvier 2025
 ![image](médias_complémentaire/centre_des_sciences(2).jpg)
 *photo du centre des sciences (internet)*
 
 
-# **Explore, caméra à fréquence** 
+# **Résonnance, Condu8** 
 *photo prise par moi*
  ![image](Médias/explore.jpg)
  *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
