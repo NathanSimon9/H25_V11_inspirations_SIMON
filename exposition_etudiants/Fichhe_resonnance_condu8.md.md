@@ -48,17 +48,17 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 
 
-### Caméras haute/ basse/ normal fréquence
+### Ordinateur
 *fournis par Élément AI*
 ![image](Médias/camera_dispositif.jpg)
  *photo prise par moi*
 
-### Lumière ultra violette
+### Hauts parleurs
 *fournis par Élément Élément AI*
 ![image](Médias/lumiere_haute_frequence.jpg)
  *photo prise par moi*
 
-### Gros écrans
+### Projecteur
 *fournis par Ubisoft*
 
 
@@ -67,12 +67,27 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
  *photo prise par moi*
 
-### Des fils
+### Vélo
 *fournis par Centre des sciences*
 ![image](Médias/dispositif_lumiere.jpeg)
  *photo prise par moi*
 
-### grosse boite
+### Cable Management
+*fournis par Centre des sciences*
+![image](Médias/boite.jpeg)
+ *photo prise par moi*
+
+ ### Kinect
+*fournis par Centre des sciences*
+![image](Médias/boite.jpeg)
+ *photo prise par moi*
+
+  ### Surface de projection
+*fournis par Centre des sciences*
+![image](Médias/boite.jpeg)
+ *photo prise par moi*
+
+  ### Ventilateur
 *fournis par Centre des sciences*
 ![image](Médias/boite.jpeg)
  *photo prise par moi*
