@@ -34,7 +34,9 @@ Voici le schéma réalisé par Prismatica, nous montrant différent point de vu 
 
 <ins>Source :</ins>https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
 ## ressenti
-
+### Positif
+### Négatif
+### Recommandation
 
 
 #  ![image](medias/luminatura/luminatura_logo.jpg)
