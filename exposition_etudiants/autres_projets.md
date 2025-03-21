@@ -10,7 +10,7 @@
 
 
 
-# Luminatura
+# Luminatura ![image](medias/luminatura/luminatura_logo.jpg)
 ## Équipe
 - <ins>**Audrey Dandurant</ins> :** Directrice audio visuel, Gestionnaire de projet
 - <ins>**Camilia Bouatmani</ins> :** Directrice artistique
