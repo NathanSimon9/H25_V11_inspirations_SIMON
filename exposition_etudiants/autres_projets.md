@@ -238,9 +238,9 @@ Voici le schéma réalisé par Arcadia, nous montrant la l'emplacement pour Arca
 ## ressenti
 Je n'ai pas de ressenti. Le dispositif a l'air plaisant, mais lorsque je me suis présenté, il n'était pas fonctionnel et il n'y avait personne de présent, donc je n'ai pas pu l'essayer ou même le voir ouvert.
 
-## cours incontournables
+# cours incontournables
 Selon moi, trois cours primordiaux pour réaliser ce genre de projet sont la programmation, car dans tous les projets, il y a de la programmation. Je dirais aussi qu'il est très important de suivre des cours d'audio, car tous les projets avec de l'audio ajouté sont beaucoup plus immersifs et plaisants. En regardant la liste des cours, je pense que le traitement audiovisuel serait également primordial, car on y apprend à créer des effets et des réactions en temps réel.
 
-## technique ou une composante technologique apprise
+# technique ou une composante technologique apprise
 Je ne connaissais pas LiDAR, "Capteurs avancés permettant une cartographie 3D en temps réel de l’espace environnant, détectant les distances et les mouvements à distance." Grâce à mes recherches, j'ai appris que LiDAR permet justement de capter en temps réel à l'aide de la lumière. Il utilise la lumière pour faire une estimation de la distance. LiDAR est utilisé dans les nouvelles voitures de nos jours pour détecter où sont les voitures autour de soi. Je m'étais toujours demandé comment c'était aussi précis ! Un bel apprentissage.
 
