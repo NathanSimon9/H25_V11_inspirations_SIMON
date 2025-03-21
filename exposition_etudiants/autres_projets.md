@@ -130,7 +130,7 @@ Je trouve que le fait que tout se passe sur un écran rend l'expérience moins a
 ### Recommandation
 Je recommande Fuga à toute personne qui adore les jeux de création avec plusieurs possibilités.
 
-# Internature
+# Internature ![image](medias/internature/internature_logo.jpg)
 ## Équipe
 - <ins>**Kenza El Harrif</ins> :** Directrice artistique, Conception sonore, design visuel
 - <ins>**Isaac Fafard</ins> :** Intégrateur multimédias, Programmeur
