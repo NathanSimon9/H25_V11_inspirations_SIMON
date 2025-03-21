@@ -123,8 +123,12 @@ Voici le schéma réalisé par Fuga, nous montrant la structure vue de haut, de 
 
 <ins>Source :</ins>https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/
 ## ressenti
-
-
+### Positif
+Je trouve l'idée assez créative de pouvoir vraiment modeler son arbre de plusieurs façons. Il y a énormément de possibilités, je ne pense pas avoir fait le tour des options, ce qui, pour moi, donne des points à Fuga.
+### Négatif
+Je trouve que le fait que tout se passe sur un écran rend l'expérience moins amusant, car on ne peut pas vraiment voir les autres faire. Sur un écran, j'ai l'impression de faire une activité chez moi, seul, dans ma chambre.
+### Recommandation
+Je recommande Fuga à toute personne qui adore les jeux de création avec plusieurs possibilités.
 
 # Internature
 ### Équipe
