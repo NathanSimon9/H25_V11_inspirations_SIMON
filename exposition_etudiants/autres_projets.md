@@ -16,8 +16,23 @@ Prismatica est présentement finalisée. Voici quelques photos pour vous montrer
 ## schéma de l'installation prévue
 Voici le schéma réalisé par Prismatica, nous montrant différent point de vu ainsi que le cable pour le projecteur.
 
-### vu 
-https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
+### Vue - enssemble
+![image](medias/prismatica/prismatica_vu_enssemble.jpg)<br>
+*Schéma fait par Prismatica*
+
+### Vue - proche
+![image](medias/prismatica/prismatica_plantation_proche.jpg)<br>
+*Schéma fait par Prismatica*
+
+### Vue - haut
+![image](medias/prismatica/prismatica_plantation_haut.jpg)<br>
+*Schéma fait par Prismatica*
+
+### Plantation cable
+![image](medias/prismatica/prismatica_plantation_cable.jpg)<br>
+*Schéma fait par Prismatica*
+
+<ins>Source :</ins>https://pootpookies.github.io/Prismatica/#/30_production/60_plantation/
 ## ressenti
 
 
