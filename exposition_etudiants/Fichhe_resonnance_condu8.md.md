@@ -5,8 +5,13 @@ Visite du jeudi 30 janvier 2025
 ![image](médias_complémentaire/centre_des_sciences(2).jpg)
 *photo du centre des sciences (internet)*
 
-
 # **Résonnance, Condu8** 
+## Équipe
+- <ins>**Ian Corbin</ins> :** créateur du circuit
+- <ins>**Samuel Desmeules Voyer</ins> :** directeur artistique et artiste 3D en chef
+- <ins>**Alexandre Gervais</ins> :** programmeur des méchaniques
+- <ins>**Kevin Malric</ins> :** responsable des média vidéo, responsable du déploiement technique
+- <ins>**Jérémy Roy Coté</ins> :** programmeur d'interconnectivité
 *photo prise par moi*
  ![image](Médias/explore.jpg)
  *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
