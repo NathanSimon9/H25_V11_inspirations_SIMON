@@ -91,8 +91,8 @@ Fournie par un des membres de l'équipe, le ventilateur sert à rafraîchir l'ut
 L'utilisateur voit un vélo et un écran. Il est donc poussé à monter sur le vélo et débuter le jeu. Une fois le jeu commencé, l'utilisateur pédale tout en regardant la toile pour jouer au jeu. L'utilisateur pédale le plus vite qu'il peut pour tenter de finir la course en première place !
 
 
-![image](Médias/question1.jpg)
- *photo prise par moi*
+![image](medias/condu8/condu8_etape.jpg)<br>
+ *photos prises par Condu8*
 
  
 Ici, deux questions permettent de comprendre ce que l'on peut observer avec les fréquences. Cela offre à l'utilisateur l'opportunité d'apprendre et de s'amuser en même temps, en explorant son propre corps pour répondre à ce qui lui est demandé.
