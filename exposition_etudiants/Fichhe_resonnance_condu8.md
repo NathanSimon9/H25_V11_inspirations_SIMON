@@ -11,7 +11,7 @@ Visite du mardi 19 mars 2025
 - <ins>**Samuel Desmeules Voyer</ins> :** directeur artistique et artiste 3D en chef
 - <ins>**Alexandre Gervais</ins> :** programmeur des méchaniques
 - <ins>**Kevin Malric</ins> :** responsable des média vidéo, responsable du déploiement technique
-- <ins>**Jérémy Roy Coté</ins> :** programmeur d'interconnectivité
+- <ins>**Jérémy Roy Coté</ins> :** programmeur d'interconnectivité<br>
 *photo prise par moi*
  ![image](Médias/explore.jpg)
  *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
