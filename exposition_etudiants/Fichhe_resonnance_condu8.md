@@ -3,7 +3,7 @@
 
 Visite du jeudi 30 janvier 2025
 ### ![image](medias/condu8/resonance_affiche.jpg)<br>
-*affiche reesonance fait par resonance*
+*affiche resonance fait par resonance*
 
 # **Resonnance, Condu8** 
 ## Équipe
