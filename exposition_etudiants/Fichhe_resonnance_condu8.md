@@ -28,7 +28,7 @@ Condu8 a lieu au studio Tim, au Cégep Montmorency, dans le cadre de l'expositio
 *photos prises par Condu8*
 
 ## Mise en espace
-![image](medias/condu8/condu8_mise_en_espace.jpg)<br>
+![image](medias/condu8/condu8_mise_espace.jpg)<br>
 *photo prise par Condu8*
 
 
