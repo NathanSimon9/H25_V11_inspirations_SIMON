@@ -35,18 +35,8 @@ Condu8 a lieu au studio Tim, au Cégep Montmorency, dans le cadre de l'expositio
 À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
 Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
 
- *photo prise par moi*
-![image](Médias/moi_haute_frequence.jpg)
-*moi en haute fréquence*
 
-
- *photo prise par moi*
-![image](Médias/moi_haute_frequence.jpeg)
-
-
-*moi en basse fréquence*
-
-# **Dispositifs nécessaires**
+# **matériaux nécessaires**
 
 Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité interactive, notamment des caméras à haute, basse et normale fréquence, ainsi que de la lumière ultraviolette. Il faut également de grands écrans pour observer les résultats fascinants des effets produits par les fréquences. Des grosse boîte englobe touts les fils nécessaires et la technologie requise pour les écrans et caméras. *Aucune photo ne peux être prise à l'interrieur de la boite (tecnhologie à l'interrieur fournis par  Pratt & Whitney)*
 
