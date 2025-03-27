@@ -1,5 +1,5 @@
 # ![image](medias/condu8/condu8_logo.jpg)
-# Expo résonnance
+# Expo Resonnance
 
 Visite du jeudi 30 janvier 2025
 ### ![image](medias/condu8/resonance_affiche.jpg)<br>
