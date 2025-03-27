@@ -101,11 +101,11 @@ Ici, nous voyons les 3 étapes : le vélo, l'utilisateur qui monte sur le vélo,
 J'adore le concept ! Je suis un grand sportif, donc forcément, pour moi, le fait d'avoir intégré du sport dans cette exposition marque énormément de points. Il est super important de faire du sport, et peut-être que pour certaines personnes, cette manière d'en faire les aidera à trouver la motivation nécessaire. Très belle idée, je conseille cette exposition à toute personne aimant faire du sport ou à toute personne cherchant des moyens de se motiver à en faire.
 
 
-*Voici les autres projets super intéressants de l'exposition Résonance.*
+*Voici les autres projets super intéressants de l'exposition Résonance.*<br>
 
 https://tim-montmorency.com/2025/#/
 
-*Voici la page de Condu8.*
+*Voici la page de Condu8.*<br>
 
 https://gearshift-games.github.io/Web-C0N-DU8/#/10_equipe/Keven_malric/
 
