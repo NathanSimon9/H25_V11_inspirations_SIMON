@@ -11,11 +11,7 @@ Visite du mardi 19 mars 2025
 - <ins>**Samuel Desmeules Voyer</ins> :** directeur artistique et artiste 3D en chef
 - <ins>**Alexandre Gervais</ins> :** programmeur des méchaniques
 - <ins>**Kevin Malric</ins> :** responsable des média vidéo, responsable du déploiement technique
-- <ins>**Jérémy Roy Coté</ins> :** programmeur d'interconnectivité<br>
-*photo prise par moi*
- ![image](Médias/explore.jpg)
- *Création exposition Explore, 28 novembre 2019 par centre des science en collaboration avec* <ins>**Élément AI, Ubisoft et Pratt & Whitney**<ins>
- 
+- <ins>**Jérémy Roy Coté</ins> :** programmeur d'interconnectivité
 
  
 Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu. Étant à la fois une installation contemplative et interactive, qui malgrés sa complexitée ne prend pas beaucoup de place dans l'établissement.  
