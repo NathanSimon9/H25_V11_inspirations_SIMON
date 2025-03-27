@@ -2,7 +2,7 @@
 # Expo résonnance
 
 Visite du jeudi 30 janvier 2025
-![image](media/condu8/resonance_affiche.jpg)
+![image](medias/condu8/resonance_affiche.jpg)
 *photo du centre des sciences (internet)*
 
 # **Résonnance, Condu8** 
