@@ -43,34 +43,48 @@ Malgré que Condu8 ne prenne pas beaucoup d'espace, il a besoin de nombreux mat�
 ![image](medias/condu8/condu8_ordi.jpg)<br>
  *photo prise par Condu8*
 
+ Fournie par le Cégep, l'ordinateur permet au dispositif de fonctionner et de créer toutes ses composantes, comme le son ou le visuel, à l'aide de logiciels tels que Unity, Visual Studio, Maya, Blender, TouchDesigner, Arduino et Reaper.
+
 ### Hauts parleurs
 ![image](medias/condu8/condu8_haut_parleur.jpg)<br>
  *photo prise par Condu8*
+
+ Fournis par le Cégep, les haut-parleurs permettent de diffuser le son dans la salle.
 
 ### Projecteur
 ![image](medias/condu8/condu8_projecteur.jpg)<br>
  *photo prise par Condu8*
 
+ Fournie par le Cégep, le projecteur permet de diffuser le visuel sur la toile.
+
 ### Vélo
 ![image](medias/condu8/condu8_velo.jpg)<br>
  *photo prise par Condu8*
 
+Fournie par le Cégep, le vélo est l'outil qui permet de faire du sport et de rendre l'expérience réaliste tout en permettant au jeu de capter ses mouvements.
 ### Cable Management
 ![image](medias/condu8/condu8_cable.jpg)<br>
  *photo prise par Condu8*
+
+ Fournis par le Cégep, les câbles servent à alimenter les haut-parleurs.
 
  ### Kinect
 ![image](medias/condu8/condu8_kinect.jpg)<br>
  *photo prise par Condu8*
 
+Fournie par un des membres de l'équipe, la Kinect sert à capter les mouvements de l'utilisateur.
+
   ### Surface de projection
 ![image](medias/condu8/condu8_toile.jpg)<br>
   *photo prise par Condu8*
+
+Fournie par le Cégep, la toile sert à recevoir la lumière envoyée par le projecteur.
 
   ### Ventilateur
 ![image](medias/condu8/condu8_ventilateur.jpg)<br>
   *photo prise par Condu8*
 
+Fournie par un des membres de l'équipe, le ventilateur sert à rafraîchir l'utilisateur qui risque d'avoir très chaud lors de son effort physique.
 
 ## Intéractivité
 
