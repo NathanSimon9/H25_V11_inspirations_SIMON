@@ -33,59 +33,43 @@ Condu8 a lieu au studio Tim, au Cégep Montmorency, dans le cadre de l'expositio
 *photo prise par Condu8*
 
 
-À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
-Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
-
-
 # **matériaux nécessaires**
 
-Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité interactive, notamment des caméras à haute, basse et normale fréquence, ainsi que de la lumière ultraviolette. Il faut également de grands écrans pour observer les résultats fascinants des effets produits par les fréquences. Des grosse boîte englobe touts les fils nécessaires et la technologie requise pour les écrans et caméras. *Aucune photo ne peux être prise à l'interrieur de la boite (tecnhologie à l'interrieur fournis par  Pratt & Whitney)*
+Malgré que Condu8 ne prenne pas beaucoup d'espace, il a besoin de nombreux matériaux pour fonctionner. Voici les matériaux nécessaires à son bon fonctionnement.
 
 
 
 ### Ordinateur
-*fournis par Élément AI*
-![image](Médias/camera_dispositif.jpg)
- *photo prise par moi*
+![image](medias/condu8/condu8_ordi.jpg)<br>
+ *photo prise par Condu8*
 
 ### Hauts parleurs
-*fournis par Élément Élément AI*
-![image](Médias/lumiere_haute_frequence.jpg)
- *photo prise par moi*
+![image](medias/condu8/condu8_haut_parleur.jpg)<br>
+ *photo prise par Condu8*
 
 ### Projecteur
-*fournis par Ubisoft*
-
-
-![image](Médias/moi_normal.jpg)
-
-
- *photo prise par moi*
+![image](medias/condu8/condu8_projecteur.jpg)<br>
+ *photo prise par Condu8*
 
 ### Vélo
-*fournis par Centre des sciences*
-![image](Médias/dispositif_lumiere.jpeg)
- *photo prise par moi*
+![image](medias/condu8/condu8_velo.jpg)<br>
+ *photo prise par Condu8*
 
 ### Cable Management
-*fournis par Centre des sciences*
-![image](Médias/boite.jpeg)
- *photo prise par moi*
+![image](medias/condu8/condu8_cable.jpg)<br>
+ *photo prise par Condu8*
 
  ### Kinect
-*fournis par Centre des sciences*
-![image](Médias/boite.jpeg)
- *photo prise par moi*
+![image](medias/condu8/condu8_kinect.jpg)<br>
+ *photo prise par Condu8*
 
   ### Surface de projection
-*fournis par Centre des sciences*
-![image](Médias/boite.jpeg)
- *photo prise par moi*
+![image](medias/condu8/condu8_toile.jpg)<br>
+  *photo prise par Condu8*
 
   ### Ventilateur
-*fournis par Centre des sciences*
-![image](Médias/boite.jpeg)
- *photo prise par moi*
+![image](medias/condu8/condu8_ventilateur.jpg)<br>
+  *photo prise par Condu8*
 
 
 ## Intéractivité
