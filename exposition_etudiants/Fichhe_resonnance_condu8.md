@@ -1,8 +1,9 @@
 # Expo Resonnance
 
 Visite du mardi 19 mars 2025
-### ![image](medias/condu8/resonance_affiche.jpg)<br>
+### ![image](medias/condu8/resonance_affiche.jpg)
 *affiche fait par resonance*
+
 
 # ![image](medias/condu8/condu8_logo.jpg)
 ## Équipe
