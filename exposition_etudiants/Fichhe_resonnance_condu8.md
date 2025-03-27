@@ -94,9 +94,7 @@ L'utilisateur voit un vélo et un écran. Il est donc poussé à monter sur le v
 ![image](medias/condu8/condu8_etape.jpg)<br>
  *photos prises par Condu8*
 
- 
-Ici, deux questions permettent de comprendre ce que l'on peut observer avec les fréquences. Cela offre à l'utilisateur l'opportunité d'apprendre et de s'amuser en même temps, en explorant son propre corps pour répondre à ce qui lui est demandé.
-
+Ici, nous voyons les 3 étapes : le vélo, l'utilisateur qui monte sur le vélo, et l'utilisateur à l'intérieur du jeu.
 
 ## Appréciation
 
