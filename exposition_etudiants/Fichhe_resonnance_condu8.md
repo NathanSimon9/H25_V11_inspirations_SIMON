@@ -15,9 +15,9 @@ Visite du mardi 19 mars 2025
  
 Condu8 est un jeu interactif qui pousse l'utilisateur à faire du sport. En effet, dans ce jeu, l'utilisateur incarne un motard et tente de vaincre ses adversaires. Dans la vraie vie, il est sur un vélo stationnaire et tous ses mouvements sont captés par une Kinect pour contrôler le motard dans le jeu. L'utilisateur pédale donc et bouge de droite à gauche pour tenter de gagner la partie. Une vraie partie de plaisir tout en faisant du sport.  
 
-*photo prise par moi*
- ![image](Médias/voir_invisible.jpg)
- *texte sur le monde invisible*
+### Fiche
+ ![image](medias/condu8/condu8_fiche.jpg)
+ *photo prise par Cyrine Ghiat*
 
  
  ## **Caméra fréquence**
