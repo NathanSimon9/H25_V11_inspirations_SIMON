@@ -23,11 +23,15 @@ Condu8 est un jeu interactif qui pousse l'utilisateur à faire du sport. En effe
  ## **Informations supplémentaires**
 Condu8 a lieu au studio Tim, au Cégep Montmorency, dans le cadre de l'exposition Résonance. C'est une exposition temporaire qui se déroule du 17 au 21 mars. Condu8 est un dispositif très amusant et simple, car il ne prend pas beaucoup de place. En effet, il nécessite seulement un vélo, un écran juste en face, et un chariot contenant tout le matériel nécessaire, qui sera décrit plus bas. À moins d'avoir une toile extérieure, Condu8 est un dispositif qui peut seulement être installé à l'intérieur. Voici quelques photos pour nous montrer ce dispositif qui est à la fois immersif et interactif.
 
- 
+ ### Démo
 ![image](medias/condu8/condu8_demo.jpg)<br>
 *photos prises par Condu8*
 
-## **Démonstration interactive**
+## Mise en espace
+![image](medias/condu8/condu8_mise_en_espace.jpg)<br>
+*photo prise par Condu8*
+
+
 À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
 Les visiteurs sont invités à tester eux-mêmes ces caméras, en découvrant comment elles peuvent capturer des fréquences invisibles, souvent utilisées dans les technologies modernes, les phénomènes naturels comme les orages par exemple.
 
