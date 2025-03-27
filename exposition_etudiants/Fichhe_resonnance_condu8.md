@@ -5,7 +5,7 @@ Visite du mardi 19 mars 2025
 *affiche fait par resonance*
 
 
-# ![image](medias/condu8/condu8_logo.jpg)
+### ![image](medias/condu8/condu8_logo.jpg)
 ## Équipe
 - <ins>**Ian Corbin</ins> :** créateur du circuit
 - <ins>**Samuel Desmeules Voyer</ins> :** directeur artistique et artiste 3D en chef
