@@ -244,3 +244,6 @@ Selon moi, trois cours primordiaux pour réaliser ce genre de projet sont la pro
 # technique ou une composante technologique apprise
 Je ne connaissais pas LiDAR, "Capteurs avancés permettant une cartographie 3D en temps réel de l’espace environnant, détectant les distances et les mouvements à distance." Grâce à mes recherches, j'ai appris que LiDAR permet justement de capter en temps réel à l'aide de la lumière. Il utilise la lumière pour faire une estimation de la distance. LiDAR est utilisé dans les nouvelles voitures de nos jours pour détecter où sont les voitures autour de soi. Je m'étais toujours demandé comment c'était aussi précis ! Un bel apprentissage.
 
+
+*<ins>Tout les logos ont été fait par leurs équipes respectivent</ins>*
+
