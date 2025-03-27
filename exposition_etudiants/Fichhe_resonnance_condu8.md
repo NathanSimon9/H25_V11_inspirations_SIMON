@@ -2,10 +2,10 @@
 # Expo résonnance
 
 Visite du jeudi 30 janvier 2025
-# ![image](medias/condu8/resonance_affiche.jpg)<br>
+### ![image](medias/condu8/resonance_affiche.jpg)<br>
 *affiche reesonance fait par resonance*
 
-# **Résonnance, Condu8** 
+# **Resonnance, Condu8** 
 ## Équipe
 - <ins>**Ian Corbin</ins> :** créateur du circuit
 - <ins>**Samuel Desmeules Voyer</ins> :** directeur artistique et artiste 3D en chef
