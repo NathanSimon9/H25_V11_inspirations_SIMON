@@ -112,10 +112,10 @@ Ici, deux questions permettent de comprendre ce que l'on peut observer avec les 
 
 ## Appréciation
 
-J'ai toujours su ce que sont les rayons ultraviolets et les infrarouges, mais il est rare que nous ayons l'opportunité de voir ces fréquences en temps réel. Je trouve cela vraiment amusant, la manière dont ce dispositif est installé, de sorte que l'on puisse nous observer dans toutes les fréquences possibles au même moment. Personnellement, j'aurais ajouté plus de questions au sol, car je trouvais vraiment intéressant de comprendre ce que les hautes et basses fréquences peuvent représenter. Par exemple, le lien entre le rouge et la chaleur.
+J'adore le concept ! Je suis un grand sportif, donc forcément, pour moi, le fait d'avoir intégré du sport dans cette exposition marque énormément de points. Il est super important de faire du sport, et peut-être que pour certaines personnes, cette manière d'en faire les aidera à trouver la motivation nécessaire. Très belle idée, je conseille cette exposition à toute personne aimant faire du sport ou à toute personne cherchant des moyens de se motiver à en faire.
 
 
-*Si les technologies du Centre des sciences vous intéresse, allez les observer de vos propres yeux.*
+*Voici les autres projets super intéressants de l'exposition Résonance.*
 
-https://www.centredessciencesdemontreal.com/
+https://tim-montmorency.com/2025/#/
 
