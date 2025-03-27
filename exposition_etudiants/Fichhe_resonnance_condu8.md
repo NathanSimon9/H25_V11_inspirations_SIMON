@@ -13,7 +13,7 @@ Visite du mardi 19 mars 2025
 - <ins>**Jérémy Roy Coté</ins> :** programmeur d'interconnectivité
 
  
-Le Centre des Sciences de Montréal est un lieu fascinant où les visiteurs peuvent plonger dans l’univers de la science à travers des expositions interactives et des technologies innovantes. L'une des expériences les plus captivantes de cet endroit est l'exploration des caméras de fréquence, des dispositifs qui captent des phénomènes invisibles à l'œil nu. Étant à la fois une installation contemplative et interactive, qui malgrés sa complexitée ne prend pas beaucoup de place dans l'établissement.  
+Condu8 est un jeu interactif qui pousse l'utilisateur à faire du sport. En effet, dans ce jeu, l'utilisateur incarne un motard et tente de vaincre ses adversaires. Dans la vraie vie, il est sur un vélo stationnaire et tous ses mouvements sont captés par une Kinect pour contrôler le motard dans le jeu. L'utilisateur pédale donc et bouge de droite à gauche pour tenter de gagner la partie. Une vraie partie de plaisir tout en faisant du sport.  
 
 *photo prise par moi*
  ![image](Médias/voir_invisible.jpg)
