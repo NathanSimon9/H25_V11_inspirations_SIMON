@@ -20,12 +20,12 @@ Condu8 est un jeu interactif qui pousse l'utilisateur à faire du sport. En effe
  *photo prise par Cyrine Ghiat*
 
  
- ## **Caméra fréquence**
- Les caméras de fréquence sont des outils puissants qui permettent d'analyser et de visualiser des ondes électromagnétiques, sonores, et même des fréquences lumineuses dans des spectres au-delà de ce que nous pouvons percevoir. En explorant ces technologies, les visiteurs peuvent découvrir comment des phénomènes comme les ondes radio, les infrasons ou les ultrasons affectent notre quotidien sans que nous en soyons conscients.
+ ## **Informations supplémentaires**
+Condu8 a lieu au studio Tim, au Cégep Montmorency, dans le cadre de l'exposition Résonance. C'est une exposition temporaire qui se déroule du 17 au 21 mars. Condu8 est un dispositif très amusant et simple, car il ne prend pas beaucoup de place. En effet, il nécessite seulement un vélo, un écran juste en face, et un chariot contenant tout le matériel nécessaire, qui sera décrit plus bas. À moins d'avoir une toile extérieure, Condu8 est un dispositif qui peut seulement être installé à l'intérieur. Voici quelques photos pour nous montrer ce dispositif qui est à la fois immersif et interactif.
 
- *photo prise par moi*
-![image](Médias/frequence.jpg)
-*explication en photo*
+ 
+![image](medias/condu8/condu8_demo.jpg)<br>
+*photos prises par Condu8*
 
 ## **Démonstration interactive**
 À travers des démonstrations interactives, les médiateurs du Centre des Sciences offrent une occasion unique de comprendre la complexité de ces fréquences. Par exemple, les caméras de fréquence peuvent être utilisées pour observer comment la lumière infrarouge est utilisée dans les équipements de vision nocturne ou comment les ondes sonores peuvent être captées et transformées en informations utiles.
