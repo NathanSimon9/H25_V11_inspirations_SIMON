@@ -102,11 +102,10 @@ J'adore le concept ! Je suis un grand sportif, donc forcément, pour moi, le fai
 
 
 *Voici les autres projets super intéressants de l'exposition Résonance.*<br>
-
 https://tim-montmorency.com/2025/#/
 
-*Voici la page de Condu8.*<br>
 
+*Voici la page de Condu8.*<br>
 https://gearshift-games.github.io/Web-C0N-DU8/#/10_equipe/Keven_malric/
 
 *<ins>Logo Condu8 créé par Condu8</ins>*
