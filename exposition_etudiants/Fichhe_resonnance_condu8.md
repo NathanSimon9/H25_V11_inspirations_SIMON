@@ -88,7 +88,7 @@ Fournie par un des membres de l'équipe, le ventilateur sert à rafraîchir l'ut
 
 ## Intéractivité
 
-Bien sûr, la partie interactive joue un rôle clé en engageant l'utilisateur à poser des actions, à réfléchir et à interagir activement avec le dispositif. Cette interaction stimule sa curiosité et l'incite à explorer les différentes facettes de l'expérience. En l'invitant à prendre des décisions et à expérimenter, l'utilisateur devient un acteur central du processus, rendant l'activité non seulement plus captivante, mais aussi plus enrichissante.
+L'utilisateur voit un vélo et un écran. Il est donc poussé à monter sur le vélo et débuter le jeu. Une fois le jeu commencé, l'utilisateur pédale tout en regardant la toile pour jouer au jeu. L'utilisateur pédale le plus vite qu'il peut pour tenter de finir la course en première place !
 
 
 ![image](Médias/question1.jpg)
