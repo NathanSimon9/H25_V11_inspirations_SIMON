@@ -43,30 +43,24 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 
 ### 13 écrans
-*fournis par Élément AI*
-
- *photo prise par moi*
+- *fournis par Élément AI*
+- *photo prise par moi*
 
 ### Maquette maison
-*fournis par Élément Élément AI*
-
- *photo prise par moi*
+- *fournis par Élément Élément AI*
+- *photo prise par moi*
 
 ### Des lumieres
-*fournis par Ubisoft*
-
-
- *photo prise par moi*
+- *fournis par Ubisoft*
+- *photo prise par moi*
 
 ### Système de son
-*fournis par Centre des sciences*
-
- *photo prise par moi*
+- *fournis par Centre des sciences*
+- *photo prise par moi*
 
 ### Cables
-*fournis par Centre des sciences*
-
- *photo prise par moi*
+- *fournis par Centre des sciences*
+- *photo prise par moi*
 
 
 ## Intéractivité
