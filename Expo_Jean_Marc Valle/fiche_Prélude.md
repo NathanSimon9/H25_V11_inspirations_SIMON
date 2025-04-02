@@ -17,22 +17,8 @@ Avec son architecture moderne et ses installations de pointe, le Centre Phi est 
  - <ins>**Avec le soutien de :</ins>** Vieux montréal
  - <ins>**Partenaire média</ins> :** La press
  - <ins>**Partenaire de diffusion :</ins>** Cinéma Parc Musée
- 
 
-# **Mixtape**
-![image](media/centre_phi_batiment.jpg)
-*photo prise par moi*
- 
-
-L'exposition "Mixtape" au Centre Phi en 2020 était une collaboration qui rendait hommage à l'œuvre du réalisateur Jean-Marc Vallée. Cette exposition immersive mettait en lumière son univers cinématographique à travers une série d'installations interactives et visuelles, créées en lien avec la musique, un élément central dans son travail.
-
-Jean-Marc Vallée était connu pour sa capacité à intégrer des bandes-son mémorables dans ses films, utilisant la musique comme un moyen puissant d'expression émotionnelle. L'exposition "Mixtape" plongeait les visiteurs dans cet aspect de son art en explorant comment la musique et l’image se rencontrent dans ses œuvres, notamment dans des films comme Dallas Buyers Club, Wild ou encore la série Big Little Lies.
-
-À travers cette exposition, les visiteurs avaient l'opportunité de découvrir les liens profonds entre la musique et les histoires que Vallée racontait à l'écran, tout en expérimentant la création d'une mixtape à travers des éléments visuels et interactifs, mettant en valeur l'impact de la musique dans son travail.
-
-En résumé, "Mixtape" au Centre Phi était une célébration de la vision unique de Jean-Marc Vallée, où la musique et le cinéma s'entrelacent pour offrir une expérience immersive autour de ses œuvres.
-
-### ouevres
+## ouevres
 - **Prélude**
 - **Courts métrages**
 - **Les mixtapes**
