@@ -23,12 +23,6 @@ Avec son architecture moderne et ses installations de pointe, le Centre Phi est 
 - **Courts métrages**
 - **Les mixtapes**
 - **Les voix**
-
-
- ![image](media/centre_phi_batiment.jpg)<br>
- *photo prise par moi*
- 
-
  
  ## **Prélude**
  ![image](media/prelude_fiche.jpg)<br>
