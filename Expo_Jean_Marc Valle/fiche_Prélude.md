@@ -31,9 +31,9 @@ Avec son architecture moderne et ses installations de pointe, le Centre Phi est 
 L'exposition Prélude au Centre Phi est une introduction immersive à l'univers cinématographique de Jean-Marc Vallée, réalisée avant l'exposition principale qui lui est dédiée. Elle permet aux visiteurs de découvrir l'approche unique du réalisateur à travers des projections, des installations et des éléments interactifs.
 
 Prélude met en lumière l'importance de la musique et des émotions dans ses films, tout en explorant ses méthodes de narration visuelle et sonore. L'exposition donne un aperçu de son processus créatif et de l'impact de son travail sur la culture cinématographique. C'est une manière de plonger progressivement dans l'univers de Jean-Marc Vallée, avant de vivre une expérience plus immersive et complète dans l'exposition principale qui lui est consacrée.
- *photo prise par moi*
+
 ![image](media/centre_phi_batiment.jpg)
-*explication en photo*
+*photo prise par moi*
 
 
 # **Dispositifs nécessaires**
