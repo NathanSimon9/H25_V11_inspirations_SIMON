@@ -25,9 +25,9 @@ Avec son architecture moderne et ses installations de pointe, le Centre Phi est 
 - **Les voix**
 
 
-*photo prise par moi*
- ![image](media/centre_phi_batiment.jpg)
- *texte sur le monde invisible*
+ ![image](media/centre_phi_batiment.jpg)<br>
+ *photo prise par moi*
+ 
 
  
  ## **Prélude**
