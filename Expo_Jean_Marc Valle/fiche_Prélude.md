@@ -38,7 +38,9 @@ Prélude met en lumière l'importance de la musique et des émotions dans ses fi
 
 # **Dispositifs nécessaires**
 
-Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité interactive, notamment des caméras à haute, basse et normale fréquence, ainsi que de la lumière ultraviolette. Il faut également de grands écrans pour observer les résultats fascinants des effets produits par les fréquences. Des grosse boîte englobe touts les fils nécessaires et la technologie requise pour les écrans et caméras. *Aucune photo ne peux être prise à l'interrieur de la boite (tecnhologie à l'interrieur fournis par  Pratt & Whitney)*
+Prélude nécessite plusieurs dispositifs pour offrir une immersion totale. En tant que projet intérieur résumant presque toute sa vie, Prélude occupe ainsi une salle entière qui lui est dédiée. Afin d'éviter les échos indésirables, il recouvre la pièce de rideaux, créant ainsi un environnement contrôlé. Un système sonore performant est également installé, avec des haut-parleurs placés stratégiquement dans toute la salle pour offrir un son à 360 degrés, renforçant l'effet d'immersion.
+
+La salle est équipée de 13 écrans : six sur un côté, six de l'autre, et un petit dernier, où une maquette d’une jolie maison, représentant la sienne. Plusieurs câbles sont évidemment nécessaires pour alimenter les écrans, les haut-parleurs, ainsi que les lumières, qui sont également disposées un peu partout pour créer des jeux de couleurs en harmonie avec les séquences filmées projetées à l'écran.
 
 
 
