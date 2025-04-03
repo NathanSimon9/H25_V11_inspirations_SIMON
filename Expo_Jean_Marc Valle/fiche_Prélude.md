@@ -43,56 +43,35 @@ Plusieurs dispositifs sont nécessaires pour le bon déroulement de l'activité 
 
 
 ### 13 écrans
- *fournis par Élément AI*
- 
- 
+![image](media/prelude_ecrans.jpg)<br>
+ *fournis par Élément AI*<br>
  *photo prise par moi*
 
 ### Maquette maison
- *fournis par Élément Élément AI*
- 
- 
+![image](media/prelude_maison.jpg)<br>
+ *fournis par Élément Élément AI*<br>
  *photo prise par moi*
 
 ### Des lumieres
- *fournis par Ubisoft*
- 
- 
+![image](media/prelude_lumiere.jpg)<br>
+ *fournis par Ubisoft*<br>
  *photo prise par moi*
 
 ### Système de son
- *fournis par Centre des sciences*
- 
- 
+![image](media/prelude_haut_parleurs.jpg)<br>
+ *fournis par Centre des sciences*<br>
  *photo prise par moi*
 
 ### Cables
- *fournis par Centre des sciences*
- 
- 
+![image](media/prelude_cable.jpg)<br>
+ *fournis par Centre des sciences*<br>
  *photo prise par moi*
-
-
-## Intéractivité
-
-Bien sûr, la partie interactive joue un rôle clé en engageant l'utilisateur à poser des actions, à réfléchir et à interagir activement avec le dispositif. Cette interaction stimule sa curiosité et l'incite à explorer les différentes facettes de l'expérience. En l'invitant à prendre des décisions et à expérimenter, l'utilisateur devient un acteur central du processus, rendant l'activité non seulement plus captivante, mais aussi plus enrichissante.
-
-
-
- *photo prise par moi*
-
- 
-Ici, deux questions permettent de comprendre ce que l'on peut observer avec les fréquences. Cela offre à l'utilisateur l'opportunité d'apprendre et de s'amuser en même temps, en explorant son propre corps pour répondre à ce qui lui est demandé.
-
 
 ## Appréciation
 
-J'ai adoré l'exposition "Mixtape", notamment l'œuvre "Prélude". "Prélude" était très intéressante car nous étions vraiment entourés de plusieurs dispositifs, ce qui nous plongeait pleinement dans l'immersion. "Prélude" est super important car il nous prépare très bien à la suite de l'exposition. Cette étape, pour une personne qui ne connaissait pas l'œuvre de Jean-Marc Vallée, était très pertinente et m'a permis de mieux comprendre le reste de l'exposition.
+J'ai adoré l'exposition "Jean_Marc Vallé", notamment l'œuvre "Prélude". "Prélude" était très intéressante car nous étions vraiment entourés de plusieurs dispositifs, ce qui nous plongeait pleinement dans l'immersion. "Prélude" est super important car il nous prépare très bien à la suite de l'exposition. Cette étape, pour une personne qui ne connaissait pas l'œuvre de Jean-Marc Vallée, était très pertinente et m'a permis de mieux comprendre le reste de l'exposition.
 
 
-*Si les technologies du Centre des sciences vous intéresse, allez les observer de vos propres yeux.*
-
-https://www.centredessciencesdemontreal.com/
 
 
 
