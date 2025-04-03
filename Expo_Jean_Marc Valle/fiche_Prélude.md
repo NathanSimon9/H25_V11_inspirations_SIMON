@@ -74,7 +74,8 @@ La salle est équipée de 13 écrans : six sur un côté, six de l'autre, et un 
 J'ai adoré l'exposition "Jean_Marc Vallé", notamment l'œuvre "Prélude". "Prélude" était très intéressante car nous étions vraiment entourés de plusieurs dispositifs, ce qui nous plongeait pleinement dans l'immersion. "Prélude" est super important car il nous prépare très bien à la suite de l'exposition. Cette étape, pour une personne qui ne connaissait pas l'œuvre de Jean-Marc Vallée, était très pertinente et m'a permis de mieux comprendre le reste de l'exposition.
 
 
-
+*Si cette exposition vous intéresse, réservez rapidement votre place pour la prochaine démonstration.*
+https://phi.ca/fr/evenements/jean-marc-vallee-mixtape/
 
 
 
