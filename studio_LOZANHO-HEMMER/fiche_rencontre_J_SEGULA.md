@@ -30,6 +30,12 @@ les spectateurs sont observés par des yeux géants
 - ### Sphere Packing<br>
 une œuvre sonore immersive qui joue des compositions de Bach dans une sphère géante.
 
+# Appréciation
+
+Personnellement, j'ai bien aimé la conférence. Pour commencer, j'ai trouvé mes sièges très confortables, j'étais bien installé. Plus sérieusement, je ne connaissais ni Jade Séguéla ni Rafael Lozano-Hemmer, ni ce qu'ils faisaient dans la vie. J'aime beaucoup la technologie et, depuis que je suis dans la technique, j'apprends beaucoup sur l'art. Je trouve cela très intéressant de voir un mélange entre les deux. J'ai aussi beaucoup aimé qu'elle nous parle de certains de ses projets, car cela m'a vraiment intrigué et donné envie d'en apprendre davantage sur des projets que je n'aurais probablement pas connus autrement.
+
+En résumé, cette conférence m'a permis d'acquérir encore plus de repères et de profondeur dans mes connaissances des médias numériques, ainsi que dans les possibilités de ce que l'on peut réaliser avec ces technologies.
+
 
 
 
