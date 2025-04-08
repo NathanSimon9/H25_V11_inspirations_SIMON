@@ -14,13 +14,22 @@ Rafael Lozano-Hemmer est un artiste d'origine mexicaine, né en 1967 à Mexico. 
 
 # Conférence
 
-Lors de la conférence, Jade a présenté non seulement les projets de Lozano-Hemmer, mais aussi la philosophie qui sous-tend son travail : l’importance de l’interaction, de la participation du public et de la fusion entre art et technologie. Elle a décrit des œuvres marquantes comme `Cloud Display`, qui matérialise les mots en fumée, Binocular Tension, où les spectateurs sont observés par des yeux géants, et `Shadow Hunter`, une installation où les ombres des passants influencent la diffusion d’une radio. Enfin, `Sphere Packing`: Bach a été mise en lumière, une œuvre sonore immersive qui joue des compositions de Bach dans une sphère géante.
+Lors de la conférence, Jade a présenté non seulement les projets de Lozano-Hemmer, mais aussi la philosophie qui sous-tend son travail : l’importance de l’interaction, de la participation du public et de la fusion entre art et technologie. Elle a décrit des œuvres marquantes comme `Cloud Display`,`Binocular Tension`, `Shadow Hunter`, et enfin, `Sphere Packing`.
 
 ## Oeuvre présentée
 
-- ### Cloud Display
-- ### Shadow Hunter
-- ### Sphere Packing
+- ### Cloud Display<br>
+ qui matérialise les mots en fumée
+
+- ### Binocular Tension<br>
+les spectateurs sont observés par des yeux géants
+
+- ### Shadow Hunter<br>
+ une installation où les ombres des passants influencent la diffusion d’une radio
+
+- ### Sphere Packing<br>
+une œuvre sonore immersive qui joue des compositions de Bach dans une sphère géante.
+
 
 
 
