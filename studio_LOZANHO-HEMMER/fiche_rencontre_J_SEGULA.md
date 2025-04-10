@@ -1,6 +1,7 @@
 # Rencontre Jade Ségula du *`25 mars 2025`*
 
-![image](medias/moi_conference.jpg)
+![image](medias/moi_conference.jpg)<br>
+*photo prise par moi*
 
 # Jade Ségula 
 
