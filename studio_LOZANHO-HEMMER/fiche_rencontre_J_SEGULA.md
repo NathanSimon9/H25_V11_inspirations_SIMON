@@ -8,7 +8,7 @@ moi à la conférence `*photo prise par moi*`
 
 Jade Séguéla est une professionnelle passionnée par l’univers des musées et des arts numériques. Elle détient une maîtrise en muséologie (2019) et un baccalauréat en arts numériques (2017) de l’Université Concordia, où elle a approfondi ses connaissances dans ces deux domaines qui la fascinent. Son parcours académique et professionnel l'a conduite à collaborer avec plusieurs institutions artistiques importantes, telles que le Musée d'art contemporain de Montréal et Eastern Bloc, ainsi que des organismes comme Tohu, le Château Dufresne et l’Institut du Patrimoine de l’UQAM.
 
-En plus de sa pratique professionnelle, Jade est également une communicante hors pair. Elle anime des conférences et des présentations, comme celle qu’elle a donnée en mars 2025 au Collège Montmorency, où elle a partagé ses connaissances sur l'art interactif et les œuvres de Lozano-Hemmer. À travers son travail, Jade Séguéla se positionne comme un pont entre l’art, la technologie et le public, cherchant à rendre l’art contemporain plus accessible et engageant pour tous.
+En plus de sa pratique professionnelle, Jade est également une communicante hors pair. Elle anime des conférences et des présentations, où elle a partagé ses connaissances sur l'art interactif et les œuvres de Lozano-Hemmer. À travers son travail, Jade Séguéla se positionne comme un pont entre l’art, la technologie et le public, cherchant à rendre l’art contemporain plus accessible et engageant pour tous.
 
 ## Lozanho-Hemmer
 
