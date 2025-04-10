@@ -2,8 +2,7 @@
 ### *25 mars 2025 - 12h30-14h00 - Salle Claude Legault `(B1346)`*
 
 ![image](medias/moi_conference.jpg)<br>
-moi à la conférence<br>
-*photo prise par moi*
+moi à la conférence `*photo prise par moi*`
 
 # Jade Ségula 
 
