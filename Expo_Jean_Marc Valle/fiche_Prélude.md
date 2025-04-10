@@ -2,7 +2,7 @@
 ## Prélude
 ### Visite du 20 février 2025 au centre PHI (15 h 00)
 ![image](media/centre_phi_batiment.jpg)
-*photo du centre PHI (https://phi.ca/uploads/_1200x800_crop_center-center_100_line_ns/PHI_Event_Centre_MyriadeChromatique_IMG3_Credit-Sylvain-Dumais.jpg)*
+*photo du centre PHI (internet)*
 
 Le Centre Phi a ouvert ses portes en 2007 à Montréal. Il est un espace culturel situé à Montréal, au Canada, qui se distingue par sa programmation innovante dans les domaines de l'art, de la technologie et de la culture. Il propose une expérience immersive en offrant des expositions, des performances, des installations multimédia, des projections et des événements interactifs qui explorent les frontières entre l'art traditionnel et les nouvelles technologies.
 
@@ -76,6 +76,9 @@ J'ai adoré l'exposition "Jean_Marc Vallé", notamment l'œuvre "Prélude". "Pr�
 
 *Si cette exposition vous intéresse, réservez rapidement votre place pour la prochaine démonstration.*<br>
 https://phi.ca/fr/evenements/jean-marc-vallee-mixtape/
+
+### Source photos 
+- centre phi : https://phi.ca/uploads/_1200x800_crop_center-center_100_line_ns/PHI_Event_Centre_MyriadeChromatique_IMG3_Credit-Sylvain-Dumais.jpg
 
 
 
