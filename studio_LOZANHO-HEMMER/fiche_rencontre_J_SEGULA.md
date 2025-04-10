@@ -1,4 +1,5 @@
-# Rencontre Jade Ségula du *`25 mars 2025`*
+# Rencontre Jade Ségula du <br> 
+### *25 mars 2025 - 12h30-14h00 - Salle Claude Legault `(B1346)`*
 
 ![image](medias/moi_conference.jpg)<br>
 *photo prise par moi*
