@@ -47,6 +47,18 @@ Deux bancs sont également placés à une distance idéale des écrans, permetta
 ![image](medias/projecteurs.jpg)<br>
 *Photo prise par moi*
 
+Quelques éléments étaient presque invisibles, ou pas visibles du tout, depuis l’endroit où je me trouvais. Mais il y avait bien évidemment tous les câbles nécessaires pour brancher les haut-parleurs, les projecteurs, etc., ainsi qu’une source pour faire jouer la vidéo. Ces éléments techniques, bien que discrets, sont essentiels au bon fonctionnement de l’installation.
+
+### Croquis
+![image](medias/croquis.jpg)<br>
+*Image fait par moi*
+
+
+
+
+
+
+
 
 
 
