@@ -40,7 +40,7 @@ Deux bancs sont également placés à une distance idéale des écrans, permetta
 *Photo prise par moi*
 
 ### Lumières
-![image](medias/lumières.jpg)<br>
+![image](medias/lumieres.jpg)<br>
 *Photo prise par moi*
 
 ### Projecteurs
