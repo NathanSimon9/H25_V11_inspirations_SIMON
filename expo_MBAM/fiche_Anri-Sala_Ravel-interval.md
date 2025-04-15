@@ -32,7 +32,7 @@ Deux bancs sont également placés à une distance idéale des écrans, permetta
 *Photo prise par moi*
 
 ### Écrans
-![image](medias/écran.jpg)<br>
+![image](medias/vue_entrer.jpg)<br>
 *Photo prise par moi*
 
 ### Bancs
