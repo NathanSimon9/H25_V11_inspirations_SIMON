@@ -3,6 +3,8 @@
 ![image](medias/muse_beaux_art.jpg)<br>
 *Photo du  Musée des beaux-arts de Montréal* (`internet`)
 ## Ravel Ravel Interval
+![image](medias/fiche_remerciement.jpg)<br>
+*Photo prise par moi*
 
 L’œuvre Ravel Ravel Interval propose une exploration originale du rythme, du temps et de la répétition. À travers une mise en scène sonore et visuelle, elle interroge notre perception de l’écoute et du mouvement. Inspirée par la musique de Maurice Ravel, cette création joue sur les décalages et les superpositions, créant une expérience à la fois immersive et contemplative.
 
@@ -52,6 +54,12 @@ Quelques éléments étaient presque invisibles, ou pas visibles du tout, depuis
 ### Croquis
 ![image](medias/croquis.jpg)<br>
 *Image fait par moi*
+
+## Ressenti
+Personnellement, je n’ai pas trop aimé l’œuvre. En entrant dans la salle, tout semble vraiment fascinant et intriguant. L’ambiance, l’installation technique et l’atmosphère immersive donnent envie de découvrir ce qui va suivre, donc mes attentes étaient assez élevées.
+
+Mais une fois bien installé sur le banc, j’ai vite décroché. Si on n’est pas un amateur de piano, les 20 minutes peuvent paraître très longues. À l’écran, on voit uniquement les mains de l’homme en train de jouer, ce qui devient vite répétitif pour moi. Après environ 5 minutes, j’avais déjà perdu l’intérêt. L’expérience reste impressionnante sur le plan technique, mais le contenu ne m’a pas vraiment captivé.
+
 
 
 
