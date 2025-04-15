@@ -20,7 +20,7 @@ En entrant dans la pièce, on découvre deux écrans séparés par quelques mèt
 *Photo prise par moi*
 
 ## Éléments nécessaires à la mise en exposition
-![image](medias/fiche_materiaux.jpg)<br>
+![image](medias/fiche_meteriaux.jpg)<br>
 *Photo prise par moi*
 
 Plusieurs éléments sont nécessaires pour réaliser cette œuvre. Tout d’abord, il faut une grande salle, car Ravel Ravel Interval occupe beaucoup d’espace. L’installation demande deux écrans ou toiles, placés à quelques mètres l’un de l’autre, afin de créer l’effet de profondeur. Deux projecteurs sont utilisés pour projeter sur chacun des écrans, et quatorze haut-parleurs sont répartis dans la pièce pour créer un environnement sonore immersif.
