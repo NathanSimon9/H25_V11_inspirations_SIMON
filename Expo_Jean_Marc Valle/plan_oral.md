@@ -23,65 +23,15 @@ J’ai beaucoup aimé cette œuvre, car je ne connaissais pas Jean-Marc Vallée 
 Je trouve que c’est une idée très brillante de créer une œuvre qui permet ensuite de faire rayonner les autres pièces de l’exposition.
 
 ### Liens
+Prélude m’a beaucoup fait penser à l’œuvre Anri-Sala au Musée des beaux-arts. Les deux étaient présentées dans une grande salle, un peu dans le style d’une salle de cinéma, avec des écrans.
+Par contre, pour moi, Prélude est beaucoup plus réussie, car l’utilisation de l’espace était parfaite. Il n’y avait aucun vide, et peu importe où l’on regardait, il y avait du contenu qui se poursuivait de façon cohérente.
+Sans oublier que le contenu lui-même était très intéressant.
+À part l'oeuvre Anri-sala, Prélude était très différente de tout ce que j’ai vu cette session, et c’est probablement l’œuvre la plus immersive que j’ai vue jusqu’à maintenant.
 
+### Conclusion
+Prélude est donc une œuvre très efficace dans le cadre de cette exposition, car grâce à tous ses éléments, elle permet de vivre un véritable moment immersif tout en nous préparant pour la suite.
+Pour ma part, Prélude m’a donné de l’inspiration pour l’avenir. Je vais certainement garder en tête l’idée de créer une œuvre qui sert d’introduction au reste d’une exposition, et qui rend les autres œuvres encore plus pertinentes grâce à cette mise en contexte initiale.
 
-
-
-
-
- 
- ## **Prélude**
- ![image](media/prelude_fiche.jpg)<br>
- *photo prise par moi*
- 
-
-![image](media/prelude_demo.jpg)<br>
-*photos prises par moi*
-
-
-# **Dispositifs nécessaires**
-
-Prélude nécessite plusieurs dispositifs pour offrir une immersion totale. En tant que projet intérieur résumant presque toute sa vie, Prélude occupe ainsi une salle entière qui lui est dédiée. Afin d'éviter les échos indésirables, il recouvre la pièce de rideaux, créant ainsi un environnement contrôlé. Un système sonore performant est également installé, avec des haut-parleurs placés stratégiquement dans toute la salle pour offrir un son à 360 degrés, renforçant l'effet d'immersion.
-
-La salle est équipée de 13 écrans : six sur un côté, six de l'autre, et un petit dernier, où une maquette d’une jolie maison, représentant la sienne. Plusieurs câbles sont évidemment nécessaires pour alimenter les écrans, les haut-parleurs, ainsi que les lumières, qui sont également disposées un peu partout pour créer des jeux de couleurs en harmonie avec les séquences filmées projetées à l'écran.
-
-
-
-### 13 écrans
-![image](media/prelude_ecrans.jpg)<br>
- *fournis par Élément AI*<br>
- *photo prise par moi*
-
-### Maquette maison
-![image](media/prelude_maison.jpg)<br>
- *fournis par Élément Élément AI*<br>
- *photo prise par moi*
-
-### Des lumieres
-![image](media/prelude_lumiere.jpg)<br>
- *fournis par Ubisoft*<br>
- *photo prise par moi*
-
-### Système de son
-![image](media/prelude_haut_parleurs.jpg)<br>
- *fournis par Centre des sciences*<br>
- *photo prise par moi*
-
-### Cables
-![image](media/prelude_cable.jpg)<br>
- *fournis par Centre des sciences*<br>
- *photo prise par moi*
-
-## Appréciation
-
-J'ai adoré l'exposition "Jean_Marc Vallé", notamment l'œuvre "Prélude". "Prélude" était très intéressante car nous étions vraiment entourés de plusieurs dispositifs, ce qui nous plongeait pleinement dans l'immersion. "Prélude" est super important car il nous prépare très bien à la suite de l'exposition. Cette étape, pour une personne qui ne connaissait pas l'œuvre de Jean-Marc Vallée, était très pertinente et m'a permis de mieux comprendre le reste de l'exposition.
-
-
-*Si cette exposition vous intéresse, réservez rapidement votre place pour la prochaine démonstration.*<br>
-https://phi.ca/fr/evenements/jean-marc-vallee-mixtape/
-
-### Source photos 
-- centre phi : https://phi.ca/uploads/_1200x800_crop_center-center_100_line_ns/PHI_Event_Centre_MyriadeChromatique_IMG3_Credit-Sylvain-Dumais.jpg
 
 
 
