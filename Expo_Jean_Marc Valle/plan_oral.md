@@ -1,29 +1,39 @@
 # Expo Jean-marc Vallé 
-## Prélude
+
 ### Visite du 20 février 2025 au centre PHI (15 h 00)
 ![image](media/centre_phi_batiment.jpg)
-*photo du centre PHI (internet)*
 
- *Création exposition Jean-marc Vallé, en  en 2020 par centre PHI en collaboration avec :*
- - <ins>**Grand partenaire :</ins>** Québec
- - <ins>**Présenté par :</ins>** Hydro Québec
- - <ins>**Avec le soutien de :</ins>** Vieux montréal
- - <ins>**Partenaire média</ins> :** La press
- - <ins>**Partenaire de diffusion :</ins>** Cinéma Parc Musée
+Bonjour, je vais vous présenter ma visite au Centre PHI, que j’ai faite le 20 février 2025, pour aller voir l’exposition de Jean-Marc Vallée.
+C’était une exposition qui regroupait plusieurs œuvres : Prélude, Mixtape, Courts-métrages et Les Voix.
+Aujourd’hui, je vais vous parler plus précisément de l’œuvre Prélude.
 
-## ouevres
-- **Prélude**
-- **Courts métrages**
-- **Les mixtapes**
-- **Les voix**
+## Prélude
+Prélude au Centre Phi est une introduction immersive à l'univers cinématographique de Jean-Marc Vallée, réalisée avant l'exposition principale qui lui est dédiée. Elle permet aux visiteurs de découvrir l'approche unique du réalisateur à travers des projections, des installations et des éléments interactifs.Prélude met en lumière l'importance de la musique et des émotions dans ses films, tout en explorant ses méthodes de narration visuelle et sonore. L'exposition donne un aperçu de son processus créatif et de l'impact de son travail sur la culture cinématographique. C'est une manière de plonger progressivement dans l'univers de Jean-Marc Vallée, avant de vivre une expérience plus immersive et complète dans l'exposition principale qui lui est consacrée.En arrivant au Centre PHI, nous sommes accueillis par une dame qui nous fait un court aperçu de ce qui va se passer, puis nous emmène à l’étage pour commencer la visite, en débutant par Prélude, qui se trouve dans la première salle.
+
+### Élément néscéssaire
+La salle est équipée de 13 écrans : six sur un côté, six de l'autre, et un petit dernier, où une maquette d’une jolie maison, représentant la sienne. Plusieurs câbles sont évidemment nécessaires pour alimenter les écrans, les haut-parleurs, ainsi que les lumières, qui sont également disposées un peu partout pour créer des jeux de couleurs en harmonie avec les séquences filmées projetées à l'écran.
+
+### Expérience vécue
+Une fois à l’intérieur, tu es subjugé par tous les écrans disposés de chaque côté et par la qualité du son immersif.
+Tu as vraiment l’impression d’être plongé au cœur du projet, et tu es automatiquement captivé par ce que tu vois et entends.
+C’est donc une œuvre contemplative très réussie.
+
+###  Appréciation
+J’ai beaucoup aimé cette œuvre, car je ne connaissais pas Jean-Marc Vallée auparavant — et justement, cette œuvre est faite pour ça ! Grâce à Prélude, j’ai vraiment pu apprécier beaucoup plus le reste des œuvres, car je me sentais plus impliqué et j’avais désormais l’impression de connaître Jean-Marc Vallée et tous ses projets.
+Je trouve que c’est une idée très brillante de créer une œuvre qui permet ensuite de faire rayonner les autres pièces de l’exposition.
+
+### Liens
+
+
+
+
+
+
  
  ## **Prélude**
  ![image](media/prelude_fiche.jpg)<br>
  *photo prise par moi*
  
-Prélude au Centre Phi est une introduction immersive à l'univers cinématographique de Jean-Marc Vallée, réalisée avant l'exposition principale qui lui est dédiée. Elle permet aux visiteurs de découvrir l'approche unique du réalisateur à travers des projections, des installations et des éléments interactifs.
-
-Prélude met en lumière l'importance de la musique et des émotions dans ses films, tout en explorant ses méthodes de narration visuelle et sonore. L'exposition donne un aperçu de son processus créatif et de l'impact de son travail sur la culture cinématographique. C'est une manière de plonger progressivement dans l'univers de Jean-Marc Vallée, avant de vivre une expérience plus immersive et complète dans l'exposition principale qui lui est consacrée.
 
 ![image](media/prelude_demo.jpg)<br>
 *photos prises par moi*
