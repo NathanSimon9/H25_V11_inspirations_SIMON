@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <link rel="stylesheet" href="buteur.html">
+<meta charset="UTF-8">
+<title>HILIGHTS MAISON</title>
+<style>
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:#eef2f7; margin:0; padding:0; }
+header { background:#1f2937; color:white; padding:15px 20px; text-align:center; font-size:1.6em; box-shadow:0 3px 6px rgba(0,0,0,0.1);}
+header .ligues-header { margin-top:10px; }
+header .ligues-header button { margin-right:5px; background:#3b82f6; color:white; border:none; padding:6px 12px; border-radius:6px; cursor:pointer; transition:0.2s; }
+header .ligues-header button.active { background:#2563eb; font-weight:bold; box-shadow:0 2px 5px rgba(0,0,0,0.3);}
+header .ligues-header button:hover { opacity:0.9; }
+main { padding:25px; max-width:1100px; margin:auto; }
+h2 { margin-top:25px; color:#111827; }
+input, select, button { margin:5px 5px 10px 0; padding:8px 10px; border-radius:6px; border:1px solid #ccc; font-size:1em; }
+button { background:#3b82f6; color:white; border:none; cursor:pointer; transition:0.2s; }
+button:hover { background:#2563eb; }
+table { border-collapse: collapse; width:100%; margin-top:15px; background:white; border-radius:10px; overflow:hidden; box-shadow:0 2px 6px rgba(0,0,0,0.1); }
+th, td { padding:12px; text-align:center; border-bottom:1px solid #e5e7eb; }
+th { background:#3b82f6; color:white; font-size:1em; }
+tr:hover { background:#f3f4f6; }
+.card { background:white; padding:20px; margin-bottom:25px; border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,0.1);}
+.stats-row { display:flex; flex-wrap:wrap; align-items:center; margin-bottom:8px; }
+.stats-row input { width:70px; margin-left:8px; }
+a {text-decoration: none; color: white;position: absolute; right:3vw; top: 1vw; font-size:2vw ;}
+a:hover {color: #b8b8b8;}
+</style>
+</head>
+<body>
+<header>
+<h1>HILIGHTS</h1>
+<a href="buteur.html">Buteurs All-Time</a>
+<div class="ligues-header" id="headerLigues"></div>
+</header>
+<main>
+
+<div class="card">
+<h2>Créer une Ligue</h2>
+<input type="text" id="nomLigue" placeholder="Nom nouvelle ligue">
+<button onclick="ajouterLigue()">Créer Ligue</button>
+<button onclick="supprimerLigue()">Supprimer Ligue</button>
+</div>
+
+<div class="card">
+<h2>Ajouter Équipe</h2>
+<input type="text" id="nomEquipe" placeholder="Nom de l'équipe">
+<button onclick="ajouterEquipe()">Ajouter Équipe</button>
+<button onclick="supprimerEquipe()">Supprimer Équipe</button>
+</div>
+
+<div class="card">
+<h2>Ajouter Joueur</h2>
+<input type="text" id="nomJoueur" placeholder="Nom du joueur">
+<select id="equipeJoueur"></select>
+<button onclick="ajouterJoueur()">Ajouter Joueur</button>
+<button onclick="supprimerJoueur()">Supprimer Joueur</button>
+</div>
+
+<div class="card">
+<h2>Ajouter Match Rapide</h2>
+<div style="display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:10px;">
+  <select id="matchEquipe1" onchange="mettreAJourJoueursMatch()"></select>
+  <span>vs</span>
+  <select id="matchEquipe2" onchange="mettreAJourJoueursMatch()"></select>
+  <input type="number" id="score1" placeholder="Score 1" style="width:80px;">
+  <input type="number" id="score2" placeholder="Score 2" style="width:80px;">
+</div>
+<div id="statsJoueursContainer"></div>
+<button onclick="ajouterMatchRapide()">Ajouter Match et Stats</button>
+</div>
+
+<div class="card">
+<h2>Classement Équipes</h2>
+<table id="tableEquipes">
+  <tr><th>Équipe</th><th>Points</th><th>V</th><th>N</th><th>D</th><th>Buts</th><th>Buts encaissés</th></tr>
+</table>
+</div>
+
+<div class="card">
+<h2>Classement Buteurs</h2>
+<table id="tableButeurs">
+  <tr><th>Joueur</th><th>Équipe</th><th>Buts</th></tr>
+</table>
+</div>
+
+<script>
+// --- Données ---
+let ligues = JSON.parse(localStorage.getItem('ligues')) || [];
+let ligueCourante = ligues[0] || null;
+
+// --- Sauvegarde ---
+function sauvegarder(){ localStorage.setItem('ligues',JSON.stringify(ligues)); }
+
+// --- Header ligues ---
+function afficherLiguesHeader(){
+  let container = document.getElementById("headerLigues");
+  container.innerHTML = '';
+  ligues.forEach(l=>{
+    let btn = document.createElement('button');
+    btn.innerText = l.nom;
+    btn.className = (ligueCourante && ligueCourante.nom===l.nom) ? 'active' : '';
+    btn.onclick = ()=>{ changerLigue(l.nom); };
+    container.appendChild(btn);
+  });
+}
+
+// --- Ligues ---
+function ajouterLigue(){
+  let nom=document.getElementById("nomLigue").value.trim();
+  if(nom && !ligues.some(l=>l.nom===nom)){
+    ligues.push({nom:nom,equipes:[],joueurs:[],matchs:[]});
+    document.getElementById("nomLigue").value='';
+    ligueCourante = ligues[ligues.length-1];
+    sauvegarder(); 
+    afficherLiguesHeader(); 
+    changerLigue(ligueCourante.nom);
+  } else alert("Nom invalide ou existant");
+}
+
+function supprimerLigue(){
+  if(ligueCourante && confirm(`Supprimer la ligue ${ligueCourante.nom} ?`)){
+    ligues = ligues.filter(l=>l!==ligueCourante);
+    ligueCourante = ligues[0] || null;
+    sauvegarder(); 
+    afficherLiguesHeader();
+    if(ligueCourante){ changerLigue(ligueCourante.nom); } 
+    else {
+      document.getElementById("tableEquipes").innerHTML="<tr><th>Équipe</th><th>Points</th><th>V</th><th>N</th><th>D</th><th>Buts</th><th>Buts encaissés</th></tr>";
+      document.getElementById("tableButeurs").innerHTML="<tr><th>Joueur</th><th>Équipe</th><th>Buts</th></tr>";
+      document.getElementById("statsJoueursContainer").innerHTML='';
+      document.getElementById("equipeJoueur").innerHTML='';
+      document.getElementById("matchEquipe1").innerHTML='';
+      document.getElementById("matchEquipe2").innerHTML='';
+    }
+  }
+}
+
+// --- Changer ligue ---
+function changerLigue(nom){
+  ligueCourante = ligues.find(l=>l.nom===nom);
+  if(ligueCourante){
+    afficherLiguesHeader();
+    actualiserEquipes(); actualiserJoueurs(); calculerClassement(); mettreAJourJoueursMatch();
+  }
+}
+
+// --- Equipes ---
+function ajouterEquipe(){
+  if(!ligueCourante){ alert("Sélectionnez une ligue"); return; }
+  let nom=document.getElementById("nomEquipe").value.trim();
+  if(nom && !ligueCourante.equipes.some(e=>e.nom===nom)){
+    ligueCourante.equipes.push({nom:nom,points:0,victoires:0,nuls:0,defaites:0,butsPour:0,butsContre:0});
+    document.getElementById("nomEquipe").value=''; sauvegarder(); actualiserEquipes();
+  } else alert("Nom équipe invalide ou déjà existant");
+}
+
+function supprimerEquipe(){
+  let nom=document.getElementById("nomEquipe").value.trim();
+  if(nom){
+    ligueCourante.equipes = ligueCourante.equipes.filter(e=>e.nom!==nom);
+    ligueCourante.joueurs = ligueCourante.joueurs.filter(j=>j.equipe!==nom);
+    ligueCourante.matchs = ligueCourante.matchs.filter(m=>m.eq1!==nom && m.eq2!==nom);
+    sauvegarder(); actualiserEquipes(); actualiserJoueurs(); calculerClassement();
+  }
+}
+
+// --- Joueurs ---
+function ajouterJoueur(){
+  if(!ligueCourante){ alert("Sélectionnez une ligue"); return; }
+  let nom=document.getElementById("nomJoueur").value.trim();
+  let equipe=document.getElementById("equipeJoueur").value;
+  if(nom && equipe){
+    ligueCourante.joueurs.push({nom:nom,equipe:equipe,buts:0,cartons:0,minutes:0});
+    document.getElementById("nomJoueur").value=''; sauvegarder(); actualiserJoueurs();
+  } else alert("Remplir tous les champs");
+}
+
+function supprimerJoueur(){
+  let nom=document.getElementById("nomJoueur").value.trim();
+  if(nom){
+    ligueCourante.joueurs = ligueCourante.joueurs.filter(j=>j.nom!==nom);
+    ligueCourante.matchs.forEach(m=>{
+      m.stats = m.stats.filter(s=>s.nom!==nom);
+    });
+    sauvegarder(); actualiserJoueurs(); calculerClassement();
+  }
+}
+
+// --- Match rapide ---
+function mettreAJourJoueursMatch(){
+  if(!ligueCourante) return;
+  let eq1=document.getElementById("matchEquipe1").value;
+  let eq2=document.getElementById("matchEquipe2").value;
+  let container=document.getElementById("statsJoueursContainer");
+  container.innerHTML='';
+
+  if(eq1 && eq2 && eq1!==eq2){
+    let joueursMatch = ligueCourante.joueurs.filter(j=>j.equipe===eq1 || j.equipe===eq2);
+    joueursMatch.forEach(j=>{
+      container.innerHTML+=`<div class="stats-row"><label>${j.nom} (${j.equipe})</label>
+        <input type="number" id="buts_${j.nom}" placeholder="Buts" value="0"></div>`;
+    });
+  }
+}
+
+function ajouterMatchRapide(){
+  if(!ligueCourante){ alert("Sélectionnez une ligue"); return; }
+  let eq1=document.getElementById("matchEquipe1").value;
+  let eq2=document.getElementById("matchEquipe2").value;
+  let score1=parseInt(document.getElementById("score1").value);
+  let score2=parseInt(document.getElementById("score2").value);
+  if(eq1 && eq2 && eq1!==eq2 && !isNaN(score1) && !isNaN(score2)){
+    let statsMatch=[];
+    let joueursMatch = ligueCourante.joueurs.filter(j=>j.equipe===eq1 || j.equipe===eq2);
+    joueursMatch.forEach(j=>{
+      let buts=parseInt(document.getElementById(`buts_${j.nom}`)?.value)||0;
+      statsMatch.push({nom:j.nom,equipe:j.equipe,buts});
+    });
+    ligueCourante.matchs.push({eq1,eq2,score1,score2,stats:statsMatch});
+    sauvegarder(); 
+    calculerClassement();
+    document.getElementById("score1").value=''; document.getElementById("score2").value='';
+    mettreAJourJoueursMatch();
+  } else alert("Remplir correctement les champs");
+}
+
+// --- Classement ---
+function calculerClassement(){
+  if(!ligueCourante) return;
+  ligueCourante.equipes.forEach(e=>{ e.points=0; e.victoires=0; e.nuls=0; e.defaites=0; e.butsPour=0; e.butsContre=0; });
+  ligueCourante.joueurs.forEach(j=>{ j.buts=0; });
+
+  ligueCourante.matchs.forEach(m=>{
+    let eq1=ligueCourante.equipes.find(e=>e.nom===m.eq1);
+    let eq2=ligueCourante.equipes.find(e=>e.nom===m.eq2);
+
+    eq1.butsPour+=m.score1; eq1.butsContre+=m.score2;
+    eq2.butsPour+=m.score2; eq2.butsContre+=m.score1;
+
+    if(m.score1>m.score2){ eq1.points+=3; eq1.victoires++; eq2.defaites++; }
+    else if(m.score1<m.score2){ eq2.points+=3; eq2.victoires++; eq1.defaites++; }
+    else{ eq1.points++; eq2.points++; eq1.nuls++; eq2.nuls++; }
+
+    m.stats.forEach(s=>{
+      let joueur = ligueCourante.joueurs.find(j=>j.nom===s.nom && j.equipe===s.equipe);
+      if(joueur) joueur.buts += s.buts;
+    });
+  });
+
+  afficherEquipes();
+  afficherButeurs();
+}
+
+// --- Affichage ---
+function actualiserEquipes(){
+  if(!ligueCourante) return;
+  let selectJ=document.getElementById("equipeJoueur");
+  let selectM1=document.getElementById("matchEquipe1");
+  let selectM2=document.getElementById("matchEquipe2");
+  selectJ.innerHTML=''; selectM1.innerHTML=''; selectM2.innerHTML='';
+  ligueCourante.equipes.forEach(e=>{
+    let opt=`<option value="${e.nom}">${e.nom}</option>`;
+    selectJ.innerHTML+=opt; selectM1.innerHTML+=opt; selectM2.innerHTML+=opt;
+  });
+  afficherEquipes();
+}
+
+function actualiserJoueurs(){ mettreAJourJoueursMatch(); }
+
+function afficherEquipes(){
+  let table=document.getElementById("tableEquipes");
+  table.innerHTML="<tr><th>Équipe</th><th>Points</th><th>V</th><th>N</th><th>D</th><th>Buts</th><th>Buts encaissés</th></tr>";
+  if(ligueCourante){
+    ligueCourante.equipes.sort((a,b)=>b.points-a.points).forEach(e=>{
+      let row=table.insertRow();
+      row.insertCell(0).innerText=e.nom;
+      row.insertCell(1).innerText=e.points;
+      row.insertCell(2).innerText=e.victoires;
+      row.insertCell(3).innerText=e.nuls;
+      row.insertCell(4).innerText=e.defaites;
+      row.insertCell(5).innerText=e.butsPour;
+      row.insertCell(6).innerText=e.butsContre;
+    });
+  }
+}
+
+function afficherButeurs(){
+  let table=document.getElementById("tableButeurs");
+  table.innerHTML="<tr><th>Joueur</th><th>Équipe</th><th>Buts</th></tr>";
+  if(!ligueCourante) return;
+  let joueursLigue = ligueCourante.joueurs.filter(j => j.buts > 0);
+  joueursLigue.sort((a,b)=>b.buts - a.buts).forEach(j=>{
+    let row = table.insertRow();
+    row.insertCell(0).innerText = j.nom;
+    row.insertCell(1).innerText = j.equipe;
+    row.insertCell(2).innerText = j.buts;
+  });
+}
+
+// --- Initialisation ---
+afficherLiguesHeader();
+if(ligueCourante){ changerLigue(ligueCourante.nom); }
+
+</script>
+</main>
+</body>
+</html>
